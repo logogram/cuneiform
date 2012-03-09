@@ -16,8 +16,8 @@ binmode STDOUT, ":utf8";
 # ? how about numbers? n
 
 my $projname = "SAA 1";
-my $projdir = "./results/";
-my $ogslfile = "../ogsl.xml";
+my $projdir = "../dataout/";
+my $ogslfile = "../resources/ogsl.xml";
 
 my @vowels = ("a", "e", "i", "u");
 my @consonants = ("\x{02BE}", "b", "d", "g", "h", "j", "k", "l", "m", "n", "p", "q", "r", "s", "\x{1E63}", "\x{0161}", "t", "\x{1E6D}", "z");
