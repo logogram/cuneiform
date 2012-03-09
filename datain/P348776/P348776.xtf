@@ -1,0 +1,1210 @@
+<transliteration xmlns="http://oracc.org/ns/xtf/1.0" xmlns:x="http://oracc.org/ns/xtf/1.0" xmlns:g="http://oracc.org/ns/gdl/1.0" xmlns:n="http://oracc.org/ns/norm/1.0" xmlns:syn="http://oracc.org/ns/syntax/1.0" xmlns:xh="http://www.w3.org/1999/xhtml" xml:id="P348776" n="SpTU 4, 183" xml:lang="sux" hand="0" project="greta" cols="2">
+    <protocols scope="text">
+        <protocol type="project">cams/gkab</protocol>
+        <protocol type="atf">lang sux</protocol>
+        <protocol type="atf">use unicode</protocol>
+        <protocol type="atf">use lexical</protocol>
+        <protocol type="syntax">line_is_unit</protocol>
+    </protocols>
+    <object type="tablet" label="x2" xml:id="P348776.x2.1">
+        <surface type="obverse" label="o" xml:id="P348776.o.2">
+            <nonx xml:id="P348776.3" strict="1" extent="start" scope="column" state="missing">start of column broken</nonx>
+            <column implicit="1" n="0">
+                <l xml:id="P348776.4" n="1'" label="o 1'">
+                    <c span="1">
+                        <f type="wp">
+                            <g:w xml:id="P348776.4.1" xml:lang="sux" form="{d}lugal-x">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.4.1.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:v xml:id="P348776.4.1.1" g:break="damaged" g:ho="1" g:status="ok" g:delim="-" g:hc="1">lugal</g:v>
+                                <g:x g:type="ellipsis" xml:id="P348776.4.1.2" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P348776.4.1.2">...</g:x>
+                            </g:w>
+                        </f>
+                    </c>
+                    <c span="1">
+                        <f type="eq">
+                            <g:w xml:id="P348776.4.2" xml:lang="akk" form="x">
+                                <g:x g:type="ellipsis" xml:id="P348776.4.2.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P348776.4.2.0">...</g:x>
+                            </g:w>
+                        </f>
+                    </c>
+                </l>
+                <l xml:id="P348776.5" n="2'" label="o 2'">
+                    <c span="1">
+                        <f type="wp">
+                            <g:w xml:id="P348776.5.1" xml:lang="sux" form="{d}lugal-x">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.5.1.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:v xml:id="P348776.5.1.1" g:status="ok" g:delim="-">lugal</g:v>
+                                <g:x g:type="ellipsis" xml:id="P348776.5.1.2" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P348776.5.1.2">...</g:x>
+                            </g:w>
+                        </f>
+                    </c>
+                    <c span="1">
+                        <f type="eq">
+                            <g:w xml:id="P348776.5.2" xml:lang="akk" form="x">
+                                <g:x g:type="ellipsis" xml:id="P348776.5.2.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P348776.5.2.0">...</g:x>
+                            </g:w>
+                        </f>
+                    </c>
+                </l>
+                <l xml:id="P348776.6" n="3'" label="o 3'">
+                    <c span="1">
+                        <f type="wp">
+                            <g:w xml:id="P348776.6.1" xml:lang="sux" form="{d}lugal-x-x-sukud-da">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.6.1.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:v xml:id="P348776.6.1.1" g:status="ok" g:delim="-">lugal</g:v>
+                                <g:v xml:id="P348776.6.1.2" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.6.1.2" g:delim="-">x</g:v>
+                                <g:v xml:id="P348776.6.1.3" g:status="ok" g:delim="-">x</g:v>
+                                <g:v g:utf8="𒃴" xml:id="P348776.6.1.4" g:status="ok" g:delim="-">sukud</g:v>
+                                <g:v xml:id="P348776.6.1.5" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">da</g:v>
+                            </g:w>
+                        </f>
+                    </c>
+                    <c span="1">
+                        <f type="eq">
+                            <g:w xml:id="P348776.6.2" xml:lang="akk" form="x">
+                                <g:x g:type="ellipsis" xml:id="P348776.6.2.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P348776.6.2.0">...</g:x>
+                            </g:w>
+                        </f>
+                    </c>
+                </l>
+            </column>
+        </surface>
+        <surface type="reverse" label="r" xml:id="P348776.r.7">
+            <column implicit="1" n="0">
+                <l xml:id="P348776.8" n="1" label="r 1">
+                    <c span="1">
+                        <f type="wp">
+                            <g:w xml:id="P348776.8.1" xml:lang="sux" form="{d}mar-tu-la₂-an-ki">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.8.1.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:v g:utf8="𒈥" xml:id="P348776.8.1.1" g:status="ok" g:delim="-">mar</g:v>
+                                <g:v xml:id="P348776.8.1.2" g:status="ok" g:delim="-">tu</g:v>
+                                <g:v g:accented="lá" g:utf8="𒇲" xml:id="P348776.8.1.3" g:status="ok" g:delim="-">la₂</g:v>
+                                <g:v xml:id="P348776.8.1.4" g:statusStart="1" g:o="&lt;" g:status="supplied" g:c=">" g:statusEnd="P348776.8.1.4" g:delim="-">an</g:v>
+                                <g:v xml:id="P348776.8.1.5" g:status="ok">ki</g:v>
+                                <g:gloss g:type="lang" g:pos="post">
+                                    <g:w xml:id="P348776.8.2" xml:lang="akk" form="hu-mu-un-ṣir">
+                                    <g:v xml:id="P348776.8.2.0" g:status="ok" g:delim="-">hu</g:v>
+                                    <g:v xml:id="P348776.8.2.1" g:status="ok" g:delim="-">mu</g:v>
+                                    <g:v xml:id="P348776.8.2.2" g:status="ok" g:delim="-">un</g:v>
+                                    <g:v g:utf8="𒈲" xml:id="P348776.8.2.3" g:status="ok">ṣir</g:v>
+                                </g:w>
+                            </g:gloss>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <g:w xml:id="P348776.8.3" xml:lang="sux" form="x">
+                            <g:x g:type="ellipsis" xml:id="P348776.8.3.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P348776.8.3.0">...</g:x>
+                        </g:w>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.9" n="2" label="r 2">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.9.1" xml:lang="sux" form="{d}ur-ki-tu₄">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.9.1.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:v xml:id="P348776.9.1.1" g:status="ok" g:delim="-">ur</g:v>
+                            <g:v xml:id="P348776.9.1.2" g:status="ok" g:delim="-">ki</g:v>
+                            <g:v g:utf8="𒌈" xml:id="P348776.9.1.3" g:status="ok">tu₄</g:v>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <g:w xml:id="P348776.9.2" xml:lang="sux" form="dam-bi{munus}">
+                            <g:v xml:id="P348776.9.2.0" g:status="ok" g:delim="-">dam</g:v>
+                            <g:v xml:id="P348776.9.2.1" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">bi</g:v>
+                            <g:d g:role="semantic" g:pos="post">
+                                <g:v g:utf8="𒊩" xml:id="P348776.9.2.2" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.9.2.2">munus</g:v>
+                            </g:d>
+                        </g:w>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.10" n="3" label="r 3">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.10.1" xml:lang="sux" form="{d}a-nu-bu">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.10.1.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:v xml:id="P348776.10.1.1" g:status="ok" g:delim="-">a</g:v>
+                            <g:v xml:id="P348776.10.1.2" g:status="ok" g:delim="-">nu</g:v>
+                            <g:v xml:id="P348776.10.1.3" g:status="ok">bu</g:v>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <g:w xml:id="P348776.10.2" xml:lang="akk" form="{d}MAR.TU">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.10.2.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:gg g:type="logo">
+                                <g:s xml:id="P348776.10.2.1" g:break="damaged" g:ho="1" g:status="ok" g:role="logo" g:logolang="sux" g:delim="." g:hc="1">MAR</g:s>
+                                <g:s g:utf8="𒌅" xml:id="P348776.10.2.2" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:role="logo" g:logolang="sux" g:c="]" g:breakEnd="P348776.10.2.2">TU</g:s>
+                            </g:gg>
+                        </g:w>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.11" n="4" label="r 4">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.11.1" xml:lang="sux" form="{d}{+a-nu-bu}anubu">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.11.1.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:d g:role="phonetic" g:pos="pre">
+                                <g:surro>
+                                    <g:s xml:id="P348776.11.1.1" g:status="ok">MIN</g:s>
+                                    <g:gg g:type="group" g:surroStart="1">
+                                        <g:v xml:id="P348776.11.1.2" g:status="ok" g:delim="-">a</g:v>
+                                        <g:v xml:id="P348776.11.1.3" g:status="ok" g:delim="-">nu</g:v>
+                                        <g:v xml:id="P348776.11.1.4" g:status="ok" g:surroEnd="P348776.11.1.2">bu</g:v>
+                                    </g:gg>
+                                </g:surro>
+                            </g:d>
+                            <g:v g:utf8="𒆳" xml:id="P348776.11.1.5" g:status="ok">anubu</g:v>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <surro>
+                            <g:nonw xml:id="P348776.11.2" xml:lang="akk">
+                                <g:s xml:id="P348776.11.2.0" g:status="ok" g:role="logo" g:logolang="sux">MIN</g:s>
+                            </g:nonw>
+                            <g:w xml:id="P348776.11.3" xml:lang="akk" form="{d}MAR.TU">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.11.3.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:gg g:type="logo">
+                                    <g:s xml:id="P348776.11.3.1" g:status="ok" g:role="logo" g:logolang="sux" g:delim=".">MAR</g:s>
+                                    <g:s g:utf8="𒌅" xml:id="P348776.11.3.2" g:status="ok" g:role="logo" g:logolang="sux">TU</g:s>
+                                </g:gg>
+                            </g:w>
+                        </surro>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.12" n="5" label="r 5">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.12.1" xml:lang="sux" form="{d}ša₁₀-ha-an">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.12.1.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:gg g:type="correction" g:status="ok" g:delim="-">
+                                <g:v g:utf8="𒊓" xml:id="P348776.12.1.1" g:remarked="1">ša₁₀</g:v>
+                                <g:s g:utf8="𒅕">IR</g:s>
+                            </g:gg>
+                            <g:v xml:id="P348776.12.1.2" g:status="ok" g:delim="-">ha</g:v>
+                            <g:v xml:id="P348776.12.1.3" g:status="ok">an</g:v>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <surro>
+                            <g:nonw xml:id="P348776.12.2" xml:lang="akk">
+                                <g:s g:utf8="𒋗" xml:id="P348776.12.2.0" g:status="ok" g:role="logo" g:logolang="sux">ŠU</g:s>
+                            </g:nonw>
+                            <g:w xml:id="P348776.12.3" xml:lang="akk" form="{d}ŠA₁₀.HA.AN" g:delim=" ">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.12.3.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:gg g:type="logo">
+                                    <g:s g:utf8="𒊓" xml:id="P348776.12.3.1" g:status="ok" g:role="logo" g:logolang="sux" g:delim=".">ŠA₁₀</g:s>
+                                    <g:s xml:id="P348776.12.3.2" g:status="ok" g:role="logo" g:logolang="sux" g:delim=".">HA</g:s>
+                                    <g:s xml:id="P348776.12.3.3" g:status="ok" g:role="logo" g:logolang="sux">AN</g:s>
+                                </g:gg>
+                            </g:w>
+                        </surro>
+                        <g:w xml:id="P348776.12.4" xml:lang="akk" form="{d}MAR.TU">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.12.4.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:gg g:type="logo">
+                                <g:s xml:id="P348776.12.4.1" g:break="damaged" g:ho="1" g:status="ok" g:role="logo" g:logolang="sux" g:delim="." g:hc="1">MAR</g:s>
+                                <g:s g:utf8="𒌅" xml:id="P348776.12.4.2" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:role="logo" g:logolang="sux" g:c="]" g:breakEnd="P348776.12.4.2">TU</g:s>
+                            </g:gg>
+                        </g:w>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.13" n="6" label="r 6">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.13.1" xml:lang="sux" form="{d}{+ša₁₀-ha-an}šahan">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.13.1.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:d g:role="phonetic" g:pos="pre">
+                                <g:surro>
+                                    <g:s xml:id="P348776.13.1.1" g:status="ok">MIN</g:s>
+                                    <g:gg g:type="group" g:surroStart="1">
+                                        <g:v g:utf8="𒊓" xml:id="P348776.13.1.2" g:status="ok" g:delim="-">ša₁₀</g:v>
+                                        <g:v xml:id="P348776.13.1.3" g:status="ok" g:delim="-">ha</g:v>
+                                        <g:v xml:id="P348776.13.1.4" g:status="ok" g:surroEnd="P348776.13.1.2">an</g:v>
+                                    </g:gg>
+                                </g:surro>
+                            </g:d>
+                            <g:v g:utf8="𒆳" xml:id="P348776.13.1.5" g:status="ok">šahan</g:v>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <surro>
+                            <g:nonw xml:id="P348776.13.2" xml:lang="akk">
+                                <g:s xml:id="P348776.13.2.0" g:break="damaged" g:ho="1" g:status="ok" g:role="logo" g:logolang="sux" g:hc="1">MIN</g:s>
+                            </g:nonw>
+                            <g:w xml:id="P348776.13.3" xml:lang="akk" form="{d}ŠAHAN" g:delim=" ">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.13.3.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:s g:utf8="𒆳" xml:id="P348776.13.3.1" g:status="ok" g:role="logo" g:logolang="sux">ŠAHAN</g:s>
+                            </g:w>
+                            <g:w xml:id="P348776.13.4" xml:lang="akk" form="{d}MAR.TU">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.13.4.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:gg g:type="logo">
+                                    <g:s xml:id="P348776.13.4.1" g:status="ok" g:role="logo" g:logolang="sux" g:delim=".">MAR</g:s>
+                                    <g:s g:utf8="𒌅" xml:id="P348776.13.4.2" g:status="ok" g:role="logo" g:logolang="sux">TU</g:s>
+                                </g:gg>
+                            </g:w>
+                        </surro>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.14" n="7" label="r 7">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.14.1" xml:lang="sux" form="{d}{+ša₁₀-ha-an}šahan₃">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.14.1.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:d g:role="phonetic" g:pos="pre">
+                                <g:surro>
+                                    <g:s xml:id="P348776.14.1.1" g:status="ok">MIN</g:s>
+                                    <g:gg g:type="group" g:surroStart="1">
+                                        <g:v g:utf8="𒊓" xml:id="P348776.14.1.2" g:status="ok" g:delim="-">ša₁₀</g:v>
+                                        <g:v xml:id="P348776.14.1.3" g:status="ok" g:delim="-">ha</g:v>
+                                        <g:v xml:id="P348776.14.1.4" g:status="ok" g:surroEnd="P348776.14.1.2">an</g:v>
+                                    </g:gg>
+                                </g:surro>
+                            </g:d>
+                            <g:v g:accented="šàhan" g:utf8="𒂄" xml:id="P348776.14.1.5" g:status="ok">šahan₃</g:v>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <g:w xml:id="P348776.14.2" xml:lang="akk" form="x">
+                            <g:v xml:id="P348776.14.2.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.14.2.0">x</g:v>
+                        </g:w>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.15" n="8" label="r 8">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.15.1" xml:lang="sux" form="{d}{+ša₁₀-ha-an}šah₂-an">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.15.1.0" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">d</g:v>
+                            </g:d>
+                            <g:d g:role="phonetic" g:pos="pre">
+                                <g:surro>
+                                    <g:s xml:id="P348776.15.1.1" g:status="ok">MIN</g:s>
+                                    <g:gg g:type="group" g:surroStart="1">
+                                        <g:v g:utf8="𒊓" xml:id="P348776.15.1.2" g:status="ok" g:delim="-">ša₁₀</g:v>
+                                        <g:v xml:id="P348776.15.1.3" g:status="ok" g:delim="-">ha</g:v>
+                                        <g:v xml:id="P348776.15.1.4" g:status="ok" g:surroEnd="P348776.15.1.2">an</g:v>
+                                    </g:gg>
+                                </g:surro>
+                            </g:d>
+                            <g:v g:accented="šáh" g:utf8="𒂄" xml:id="P348776.15.1.5" g:break="damaged" g:ho="1" g:status="ok" g:delim="-" g:hc="1">šah₂</g:v>
+                            <g:v xml:id="P348776.15.1.6" g:status="ok" g:delim="-">an</g:v>
+                            <g:gg g:type="correction" g:status="excised" g:c=">>" g:statusEnd="P348776.15.1.7">
+                                <g:v xml:id="P348776.15.1.7" g:statusStart="1" g:o="&lt;&lt;" g:remarked="1">ki</g:v>
+                                <g:s>DI</g:s>
+                            </g:gg>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <g:w xml:id="P348776.15.2" xml:lang="akk" form="x">
+                            <g:v xml:id="P348776.15.2.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.15.2.0">x</g:v>
+                        </g:w>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.16" n="9" label="r 9">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.16.1" xml:lang="sux" form="{d}{+ša₁₀-ha-an}|AH+ME|{+gu-du}-an">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.16.1.0" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">d</g:v>
+                            </g:d>
+                            <g:d g:role="phonetic" g:pos="pre">
+                                <g:surro>
+                                    <g:s xml:id="P348776.16.1.1" g:status="ok">MIN</g:s>
+                                    <g:gg g:type="group" g:surroStart="1">
+                                        <g:v g:utf8="𒊓" xml:id="P348776.16.1.2" g:status="ok" g:delim="-">ša₁₀</g:v>
+                                        <g:v xml:id="P348776.16.1.3" g:status="ok" g:delim="-">ha</g:v>
+                                        <g:v xml:id="P348776.16.1.4" g:status="ok" g:surroEnd="P348776.16.1.2">an</g:v>
+                                    </g:gg>
+                                </g:surro>
+                            </g:d>
+                            <g:c form="|AH+ME|" g:utf8="𒄴𒈨" xml:id="P348776.16.1.5" g:status="ok">
+                                <g:s>AH</g:s>
+                                <g:o g:type="joining"/>
+                                <g:s>ME</g:s>
+                            </g:c>
+                            <g:d g:role="phonetic" g:pos="post" g:delim="-">
+                                <g:gg g:type="correction" g:status="ok" g:delim="-">
+                                    <g:v xml:id="P348776.16.1.6" g:remarked="1">gu</g:v>
+                                    <g:s>DI</g:s>
+                                </g:gg>
+                                <g:v xml:id="P348776.16.1.7" g:status="ok">du</g:v>
+                            </g:d>
+                            <g:v xml:id="P348776.16.1.8" g:status="ok" g:delim="-">an</g:v>
+                            <g:gg g:type="correction" g:status="excised" g:c=">>" g:statusEnd="P348776.16.1.9">
+                                <g:v xml:id="P348776.16.1.9" g:statusStart="1" g:o="&lt;&lt;" g:remarked="1">ki</g:v>
+                                <g:s>DI</g:s>
+                            </g:gg>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <surro>
+                            <g:nonw xml:id="P348776.16.2" xml:lang="akk">
+                                <g:s xml:id="P348776.16.2.0" g:break="damaged" g:ho="1" g:status="ok" g:role="logo" g:logolang="sux" g:hc="1">MIN</g:s>
+                            </g:nonw>
+                            <g:w xml:id="P348776.16.3" xml:lang="akk" form="{d}GUDU₄.AN" g:delim=" ">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.16.3.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:gg g:type="logo">
+                                    <g:s g:utf8="𒄴𒈨" xml:id="P348776.16.3.1" g:status="ok" g:role="logo" g:logolang="sux" g:delim=".">GUDU₄</g:s>
+                                    <g:s xml:id="P348776.16.3.2" g:status="ok" g:role="logo" g:logolang="sux">AN</g:s>
+                                </g:gg>
+                            </g:w>
+                            <g:w xml:id="P348776.16.4" xml:lang="akk" form="{d}MAR.TU">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.16.4.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:gg g:type="logo">
+                                    <g:s xml:id="P348776.16.4.1" g:status="ok" g:role="logo" g:logolang="sux" g:delim=".">MAR</g:s>
+                                    <g:s g:utf8="𒌅" xml:id="P348776.16.4.2" g:status="ok" g:role="logo" g:logolang="sux">TU</g:s>
+                                </g:gg>
+                            </g:w>
+                        </surro>
+                    </f>
+                </c>
+            </l>
+            <note xml:id="note.5">{d}AH-an is expected, possibly to be read sa₈-ah-an.</note>
+            <l xml:id="P348776.17" n="10" label="r 10">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.17.1" xml:lang="sux" form="{d}i-ki-tu₄">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.17.1.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:v xml:id="P348776.17.1.1" g:status="ok" g:delim="-">i</g:v>
+                            <g:v xml:id="P348776.17.1.2" g:status="ok" g:delim="-">ki</g:v>
+                            <g:v g:utf8="𒌈" xml:id="P348776.17.1.3" g:status="ok">tu₄</g:v>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <g:w xml:id="P348776.17.2" xml:lang="sux" form="dam-bi{munus}">
+                            <g:v xml:id="P348776.17.2.0" g:status="ok" g:delim="-">dam</g:v>
+                            <g:v xml:id="P348776.17.2.1" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">bi</g:v>
+                            <g:d g:role="semantic" g:pos="post">
+                                <g:v g:utf8="𒊩" xml:id="P348776.17.2.2" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.17.2.2">munus</g:v>
+                            </g:d>
+                        </g:w>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.18" n="11" label="r 11">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.18.1" xml:lang="sux" form="{d}ra-am-ma-nu">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.18.1.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:v xml:id="P348776.18.1.1" g:status="ok" g:delim="-">ra</g:v>
+                            <g:v xml:id="P348776.18.1.2" g:status="ok" g:delim="-">am</g:v>
+                            <g:v xml:id="P348776.18.1.3" g:status="ok" g:delim="-">ma</g:v>
+                            <g:v xml:id="P348776.18.1.4" g:status="ok">nu</g:v>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <surro>
+                            <g:nonw xml:id="P348776.18.2" xml:lang="akk">
+                                <g:s g:utf8="𒋗" xml:id="P348776.18.2.0" g:break="damaged" g:ho="1" g:status="ok" g:role="logo" g:logolang="sux" g:hc="1">ŠU</g:s>
+                            </g:nonw>
+                            <g:w xml:id="P348776.18.3" xml:lang="akk" form="{d}ra-am-ma-nu">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.18.3.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:v xml:id="P348776.18.3.1" g:status="ok" g:delim="-">ra</g:v>
+                                <g:v xml:id="P348776.18.3.2" g:status="ok" g:delim="-">am</g:v>
+                                <g:v xml:id="P348776.18.3.3" g:status="ok" g:delim="-">ma</g:v>
+                                <g:v xml:id="P348776.18.3.4" g:status="ok">nu</g:v>
+                            </g:w>
+                        </surro>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.19" n="12" label="r 12">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.19.1" xml:lang="sux" form="{d}{+ra-am-ma-nu}rammanu">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.19.1.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:d g:role="phonetic" g:pos="pre">
+                                <g:surro>
+                                    <g:s xml:id="P348776.19.1.1" g:status="ok">MIN</g:s>
+                                    <g:gg g:type="group" g:surroStart="1">
+                                        <g:v xml:id="P348776.19.1.2" g:status="ok" g:delim="-">ra</g:v>
+                                        <g:v xml:id="P348776.19.1.3" g:status="ok" g:delim="-">am</g:v>
+                                        <g:v xml:id="P348776.19.1.4" g:status="ok" g:delim="-">ma</g:v>
+                                        <g:v xml:id="P348776.19.1.5" g:status="ok" g:surroEnd="P348776.19.1.2">nu</g:v>
+                                    </g:gg>
+                                </g:surro>
+                            </g:d>
+                            <g:v g:utf8="𒆳" xml:id="P348776.19.1.6" g:status="ok">rammanu</g:v>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <surro>
+                            <g:nonw xml:id="P348776.19.2" xml:lang="akk">
+                                <g:s xml:id="P348776.19.2.0" g:break="damaged" g:ho="1" g:status="ok" g:role="logo" g:logolang="sux" g:hc="1">MIN</g:s>
+                            </g:nonw>
+                            <g:w xml:id="P348776.19.3" xml:lang="akk" form="{d}ra-am-ma-nu">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.19.3.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:v xml:id="P348776.19.3.1" g:status="ok" g:delim="-">ra</g:v>
+                                <g:v xml:id="P348776.19.3.2" g:status="ok" g:delim="-">am</g:v>
+                                <g:v xml:id="P348776.19.3.3" g:status="ok" g:delim="-">ma</g:v>
+                                <g:v xml:id="P348776.19.3.4" g:status="ok">nu</g:v>
+                            </g:w>
+                        </surro>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.20" n="13" label="r 13">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.20.1" xml:lang="sux" form="{d}ra-a-šu₁₁">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.20.1.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:v xml:id="P348776.20.1.1" g:status="ok" g:delim="-">ra</g:v>
+                            <g:v xml:id="P348776.20.1.2" g:status="ok" g:delim="-">a</g:v>
+                            <g:v g:utf8="𒋢" xml:id="P348776.20.1.3" g:status="ok">šu₁₁</g:v>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <surro>
+                            <g:nonw xml:id="P348776.20.2" xml:lang="akk">
+                                <g:s g:utf8="𒋗" xml:id="P348776.20.2.0" g:break="damaged" g:ho="1" g:status="ok" g:role="logo" g:logolang="sux" g:hc="1">ŠU</g:s>
+                            </g:nonw>
+                            <g:w xml:id="P348776.20.3" xml:lang="akk" form="{d}ra-a-šu₁₁">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.20.3.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:v xml:id="P348776.20.3.1" g:status="ok" g:delim="-">ra</g:v>
+                                <g:v xml:id="P348776.20.3.2" g:status="ok" g:delim="-">a</g:v>
+                                <g:v g:utf8="𒋢" xml:id="P348776.20.3.3" g:status="ok">šu₁₁</g:v>
+                            </g:w>
+                        </surro>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.21" n="14" label="r 14">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.21.1" xml:lang="sux" form="{d}{+ra-a-šu₁₁}rašu">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.21.1.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:d g:role="phonetic" g:pos="pre">
+                                <g:surro>
+                                    <g:s xml:id="P348776.21.1.1" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">MIN</g:s>
+                                    <g:gg g:type="group" g:surroStart="1">
+                                        <g:v xml:id="P348776.21.1.2" g:status="ok" g:delim="-">ra</g:v>
+                                        <g:v xml:id="P348776.21.1.3" g:status="ok" g:delim="-">a</g:v>
+                                        <g:v g:utf8="𒋢" xml:id="P348776.21.1.4" g:status="ok" g:surroEnd="P348776.21.1.2">šu₁₁</g:v>
+                                    </g:gg>
+                                </g:surro>
+                            </g:d>
+                            <g:v g:utf8="𒆳" xml:id="P348776.21.1.5" g:status="ok">rašu</g:v>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <surro>
+                            <g:nonw xml:id="P348776.21.2" xml:lang="akk">
+                                <g:s xml:id="P348776.21.2.0" g:status="ok" g:role="logo" g:logolang="sux">MIN</g:s>
+                            </g:nonw>
+                            <g:w xml:id="P348776.21.3" xml:lang="akk" form="{d}RAŠU">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.21.3.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:s g:utf8="𒆳" xml:id="P348776.21.3.1" g:status="ok" g:role="logo" g:logolang="sux">RAŠU</g:s>
+                            </g:w>
+                        </surro>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.22" n="15" label="r 15">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.22.1" xml:lang="sux" form="{d}ilba₂{+il-ba}">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.22.1.0" g:break="damaged" g:ho="1" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:v g:accented="ílba" g:utf8="𒆜𒆳" xml:id="P348776.22.1.1" g:break="damaged" g:status="ok" g:hc="1">ilba₂</g:v>
+                            <g:d g:role="phonetic" g:pos="post">
+                                <g:v xml:id="P348776.22.1.2" g:status="ok" g:delim="-">il</g:v>
+                                <g:v xml:id="P348776.22.1.3" g:status="ok">ba</g:v>
+                            </g:d>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <surro>
+                            <g:nonw xml:id="P348776.22.2" xml:lang="akk">
+                                <g:s g:utf8="𒋗" xml:id="P348776.22.2.0" g:break="damaged" g:ho="1" g:status="ok" g:role="logo" g:logolang="sux" g:hc="1">ŠU</g:s>
+                            </g:nonw>
+                            <g:w xml:id="P348776.22.3" xml:lang="akk" form="{d}ILBA₂">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.22.3.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:s g:accented="ÍLBA" g:utf8="𒆜𒆳" xml:id="P348776.22.3.1" g:status="ok" g:role="logo" g:logolang="sux">ILBA₂</g:s>
+                            </g:w>
+                        </surro>
+                    </f>
+                </c>
+            </l>
+            <note xml:id="note.6">In this and the following lines the phonetic complements are written betweeen the two signs that constitute ILLAT.</note>
+            <l xml:id="P348776.23" n="16" label="r 16">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.23.1" xml:lang="sux" form="{d}alba₂{+al-ba}">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.23.1.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.23.1.0">d</g:v>
+                            </g:d>
+                            <g:v g:accented="álba" g:utf8="𒆜𒆳" xml:id="P348776.23.1.1" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">alba₂</g:v>
+                            <g:d g:role="phonetic" g:pos="post">
+                                <g:v xml:id="P348776.23.1.2" g:status="ok" g:delim="-">al</g:v>
+                                <g:v xml:id="P348776.23.1.3" g:status="ok">ba</g:v>
+                            </g:d>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <surro>
+                            <g:nonw xml:id="P348776.23.2" xml:lang="akk">
+                                <g:s g:utf8="𒋗" xml:id="P348776.23.2.0" g:break="damaged" g:ho="1" g:status="ok" g:role="logo" g:logolang="sux" g:hc="1">ŠU</g:s>
+                            </g:nonw>
+                            <g:w xml:id="P348776.23.3" xml:lang="akk" form="{d}ALBA₂">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.23.3.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:s g:accented="ÁLBA" g:utf8="𒆜𒆳" xml:id="P348776.23.3.1" g:status="ok" g:role="logo" g:logolang="sux">ALBA₂</g:s>
+                            </g:w>
+                        </surro>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.24" n="17" label="r 17">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.24.1" xml:lang="sux" form="{d}ilha{+il-ha}">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.24.1.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.24.1.0">d</g:v>
+                            </g:d>
+                            <g:v g:utf8="𒆜𒆳" xml:id="P348776.24.1.1" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">ilha</g:v>
+                            <g:d g:role="phonetic" g:pos="post">
+                                <g:v xml:id="P348776.24.1.2" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.24.1.2" g:delim="-">il</g:v>
+                                <g:v xml:id="P348776.24.1.3" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">ha</g:v>
+                            </g:d>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <surro>
+                            <g:nonw xml:id="P348776.24.2" xml:lang="akk">
+                                <g:s g:utf8="𒋗" xml:id="P348776.24.2.0" g:break="damaged" g:ho="1" g:status="ok" g:role="logo" g:logolang="sux" g:hc="1">ŠU</g:s>
+                            </g:nonw>
+                            <g:w xml:id="P348776.24.3" xml:lang="akk" form="{d}ILHA">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.24.3.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:s g:utf8="𒆜𒆳" xml:id="P348776.24.3.1" g:status="ok" g:role="logo" g:logolang="sux">ILHA</g:s>
+                            </g:w>
+                        </surro>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.25" n="18" label="r 18">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.25.1" xml:lang="sux" form="{d}alha{+al-ha}">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.25.1.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.25.1.0">d</g:v>
+                            </g:d>
+                            <g:v g:utf8="𒆜𒆳" xml:id="P348776.25.1.1" g:status="ok">alha</g:v>
+                            <g:d g:role="phonetic" g:pos="post">
+                                <g:v xml:id="P348776.25.1.2" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.25.1.2" g:delim="-">al</g:v>
+                                <g:v xml:id="P348776.25.1.3" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">ha</g:v>
+                            </g:d>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <surro>
+                            <g:nonw xml:id="P348776.25.2" xml:lang="akk">
+                                <g:s g:utf8="𒋗" xml:id="P348776.25.2.0" g:break="damaged" g:ho="1" g:status="ok" g:role="logo" g:logolang="sux" g:hc="1">ŠU</g:s>
+                            </g:nonw>
+                            <g:w xml:id="P348776.25.3" xml:lang="akk" form="{d}ALHA">
+                                <g:d g:role="semantic" g:pos="pre">
+                                    <g:v xml:id="P348776.25.3.0" g:status="ok">d</g:v>
+                                </g:d>
+                                <g:s g:utf8="𒆜𒆳" xml:id="P348776.25.3.1" g:status="ok" g:role="logo" g:logolang="sux">ALHA</g:s>
+                            </g:w>
+                        </surro>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.26" n="19" label="r 19">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.26.1" xml:lang="sux" form="{d}baliha{+ba-li-ha}">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.26.1.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.26.1.0">d</g:v>
+                            </g:d>
+                            <g:v g:utf8="𒆜𒆳" xml:id="P348776.26.1.1" g:status="ok">baliha</g:v>
+                            <g:d g:role="phonetic" g:pos="post">
+                                <g:v xml:id="P348776.26.1.2" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:delim="-">ba</g:v>
+                                <g:v xml:id="P348776.26.1.3" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.26.1.2" g:delim="-">li</g:v>
+                                <g:v xml:id="P348776.26.1.4" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">ha</g:v>
+                            </g:d>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <g:w xml:id="P348776.26.2" xml:lang="akk" form="x">
+                            <g:v xml:id="P348776.26.2.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.26.2.0">x</g:v>
+                        </g:w>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.27" n="20" label="r 20">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.27.1" xml:lang="sux" form="{d}diŋir-mar-tu">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.27.1.0" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">d</g:v>
+                            </g:d>
+                            <g:v g:utf8="𒀭" xml:id="P348776.27.1.1" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.27.1.1" g:delim="-">diŋir</g:v>
+                            <g:v g:utf8="𒈥" xml:id="P348776.27.1.2" g:break="damaged" g:ho="1" g:status="ok" g:delim="-" g:hc="1">mar</g:v>
+                            <g:v xml:id="P348776.27.1.3" g:status="ok">tu</g:v>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <g:w xml:id="P348776.27.2" xml:lang="akk" form="{d}DINGIR-MAR.TU">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.27.2.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:s g:utf8="𒀭" xml:id="P348776.27.2.1" g:status="ok" g:role="logo" g:logolang="sux" g:delim="--" g:em="1">DINGIR</g:s>
+                            <g:gg g:type="logo">
+                                <g:s xml:id="P348776.27.2.2" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:role="logo" g:logolang="sux" g:delim=".">MAR</g:s>
+                                <g:s g:utf8="𒌅" xml:id="P348776.27.2.3" g:status="ok" g:break="missing" g:role="logo" g:logolang="sux" g:c="]" g:breakEnd="P348776.27.2.2">TU</g:s>
+                            </g:gg>
+                        </g:w>
+                    </f>
+                </c>
+            </l>
+            <l xml:id="P348776.28" n="21" label="r 21">
+                <c span="1">
+                    <f type="wp">
+                        <g:w xml:id="P348776.28.1" xml:lang="sux" form="{d}gu₂-bar-ra">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.28.1.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing">d</g:v>
+                            </g:d>
+                            <g:v g:accented="gú" g:utf8="𒄘" xml:id="P348776.28.1.1" g:status="ok" g:break="missing" g:delim="-">gu₂</g:v>
+                            <g:v xml:id="P348776.28.1.2" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P348776.28.1.0" g:delim="-">bar</g:v>
+                            <g:v xml:id="P348776.28.1.3" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">ra</g:v>
+                        </g:w>
+                    </f>
+                </c>
+                <c span="1">
+                    <f type="eq">
+                        <g:w xml:id="P348776.28.2" xml:lang="akk" form="{d}x-x">
+                            <g:d g:role="semantic" g:pos="pre">
+                                <g:v xml:id="P348776.28.2.0" g:status="ok">d</g:v>
+                            </g:d>
+                            <g:v xml:id="P348776.28.2.1" g:status="ok" g:delim="-">x</g:v>
+                            <g:x g:type="ellipsis" xml:id="P348776.28.2.2" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P348776.28.2.2">...</g:x>
+                        </g:w>
+                    </f>
+                </c>
+            </l>
+        </column>
+        <nonx xml:id="P348776.29" strict="1" extent="rest" scope="column" state="missing">rest of column broken</nonx>
+    </surface>
+</object>
+<xcl xmlns="http://oracc.org/ns/xcl/1.0" xmlns:xff="http://oracc.org/ns/xff/1.0" project="greta" textid="P348776">
+    <c type="text" xml:id="P348776.U0">
+        <mds xml:id="P348776.m0">
+            <m k="subgenre">
+            </m>
+            <m k="genre">
+            </m>
+            <m k="period">Hellenistic</m>
+            <m k="provenience">Uruk</m>
+        </mds>
+        <d type="surface" ref="P348776.o.2"/>
+        <d type="nonx" ref="P348776.3"/>
+        <c type="discourse" subtype="body" xml:id="P348776.U1">
+        <d type="line-start" ref="P348776.4"/>
+        <c type="sentence" xml:id="P348776.U2" label="o 1' - o 1'">
+        <l xml:id="P348776.l00753" ref="P348776.4.1">
+            <xff:f xml:lang="sux" form="{d}lugal-x" literal="+LugalX[1]DN" sublem="LugalX[1]DN" cf="LugalX" gw="1" sense="1" norm0="LugalX" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <l xml:id="P348776.l00754" ref="P348776.4.2">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="x" literal="u +." sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U3" label="o 2' - o 2'">
+        <d type="line-start" ref="P348776.5"/>
+        <l xml:id="P348776.l00755" ref="P348776.5.1">
+            <xff:f xml:lang="sux" form="{d}lugal-x" literal="+LugalX[2]DN" sublem="LugalX[2]DN" cf="LugalX" gw="2" sense="2" norm0="LugalX" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <l xml:id="P348776.l00756" ref="P348776.5.2">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="x" literal="u +." sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U4" label="o 3' - o 3'">
+        <d type="line-start" ref="P348776.6"/>
+        <l xml:id="P348776.l00757" ref="P348776.6.1">
+            <xff:f xml:lang="sux" form="{d}lugal-x-x-sukud-da" literal="+LugalXsukuda[1]DN" sublem="LugalXsukuda[1]DN" cf="LugalXsukuda" gw="1" sense="1" norm0="LugalXsukuda" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <l xml:id="P348776.l00758" ref="P348776.6.2">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="x" literal="u +." sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U5" label="r 1 - r 1">
+        <d type="surface" ref="P348776.r.7"/>
+        <d type="line-start" ref="P348776.8"/>
+        <l xml:id="P348776.l00759" ref="P348776.8.1">
+            <xff:f xml:lang="sux" form="{d}mar-tu-la₂-an-ki" literal="+Martula'anki[1]DN" sublem="Martula'anki[1]DN" cf="Martula'anki" gw="1" sense="1" norm0="Martula'anki" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <l xml:id="P348776.l0075a" ref="P348776.8.2">
+            <xff:f xml:lang="akk" form="hu-mu-un-ṣir" literal="+Humunṣir[1]DN$" sublem="Humunṣir[1]DN$" cf="Humunṣir" gw="1" sense="1" norm0="Humunṣir" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <l xml:id="P348776.l0075b" ref="P348776.8.3">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="sux" form="x" literal="u +." sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U6" label="r 2 - r 2">
+        <d type="line-start" ref="P348776.9"/>
+        <l xml:id="P348776.l0075c" ref="P348776.9.1">
+            <xff:f xml:lang="sux" form="{d}ur-ki-tu₄" literal="+Urkitu[1]DN" sublem="Urkitu[1]DN" cf="Urkitu" gw="1" sense="1" norm0="Urkitu" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <l xml:id="P348776.l0075d" ref="P348776.9.2">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="sux" form="dam-bi{munus}" invalid="1" literal="dam[wife] +." sublem="dam[wife]" cf="dam" gw="wife" sense="wife"/>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U7" label="r 3 - r 3">
+        <d type="line-start" ref="P348776.10"/>
+        <l xml:id="P348776.l0075e" ref="P348776.10.1">
+            <xff:f xml:lang="sux" form="{d}a-nu-bu" literal="+Anubu[1]DN" sublem="Anubu[1]DN" cf="Anubu" gw="1" sense="1" norm0="Anubu" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <l xml:id="P348776.l0075f" ref="P348776.10.2">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}MAR.TU" literal="+Amurru[1]DN$ +." sublem="Amurru[1]DN$" cf="Amurru" gw="1" sense="1" norm0="Amurru" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U8" label="r 4 - r 4">
+        <d type="line-start" ref="P348776.11"/>
+        <l xml:id="P348776.l00760" ref="P348776.11.1">
+            <xff:f xml:lang="sux" form="{d}{+a-nu-bu}anubu" literal="+Anubu[1]DN" sublem="Anubu[1]DN" cf="Anubu" gw="1" sense="1" norm0="Anubu" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+        <d type="nonw" ref="P348776.11.2"/>
+        <l xml:id="P348776.l00761" ref="P348776.11.3">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}MAR.TU" literal="+Amurru[1]DN$ +." sublem="Amurru[1]DN$" cf="Amurru" gw="1" sense="1" norm0="Amurru" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="FORM|CF|NORM0|SENSE">
+            </dict>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U9" label="r 5 - r 5">
+        <d type="line-start" ref="P348776.12"/>
+        <l xml:id="P348776.l00762" ref="P348776.12.1">
+            <xff:f xml:lang="sux" form="{d}ša₁₀-ha-an" literal="+Šahan[1]DN" sublem="Šahan[1]DN" cf="Šahan" gw="1" sense="1" norm0="Šahan" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <d type="nonw" ref="P348776.12.2"/>
+        <l xml:id="P348776.l00763" ref="P348776.12.3">
+            <xff:f xml:lang="akk" form="{d}ŠA₁₀.HA.AN" literal="+Šahan[1]DN$" sublem="Šahan[1]DN$" cf="Šahan" gw="1" sense="1" norm0="Šahan" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+        <l xml:id="P348776.l00764" ref="P348776.12.4">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}MAR.TU" literal="+Amurru[1]DN$ +." sublem="Amurru[1]DN$" cf="Amurru" gw="1" sense="1" norm0="Amurru" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="FORM|CF|NORM0|SENSE">
+            </dict>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U10" label="r 6 - r 6">
+        <d type="line-start" ref="P348776.13"/>
+        <l xml:id="P348776.l00765" ref="P348776.13.1">
+            <xff:f xml:lang="sux" form="{d}{+ša₁₀-ha-an}šahan" literal="+Šahan[1]DN" sublem="Šahan[1]DN" cf="Šahan" gw="1" sense="1" norm0="Šahan" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+        <d type="nonw" ref="P348776.13.2"/>
+        <l xml:id="P348776.l00766" ref="P348776.13.3">
+            <xff:f xml:lang="akk" form="{d}ŠAHAN" literal="+Šahan[1]DN$" sublem="Šahan[1]DN$" cf="Šahan" gw="1" sense="1" norm0="Šahan" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+        <l xml:id="P348776.l00767" ref="P348776.13.4">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}MAR.TU" literal="+Amurru[1]DN$ +." sublem="Amurru[1]DN$" cf="Amurru" gw="1" sense="1" norm0="Amurru" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="FORM|CF|NORM0|SENSE">
+            </dict>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U11" label="r 7 - r 7">
+        <d type="line-start" ref="P348776.14"/>
+        <l xml:id="P348776.l00768" ref="P348776.14.1">
+            <xff:f xml:lang="sux" form="{d}{+ša₁₀-ha-an}šahan₃" literal="+Šahan[1]DN" sublem="Šahan[1]DN" cf="Šahan" gw="1" sense="1" norm0="Šahan" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+        <l xml:id="P348776.l00769" ref="P348776.14.2">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="x" literal="u +." sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U12" label="r 8 - r 8">
+        <d type="line-start" ref="P348776.15"/>
+        <l xml:id="P348776.l0076a" ref="P348776.15.1">
+            <xff:f xml:lang="sux" form="{d}{+ša₁₀-ha-an}šah₂-an" literal="+Šahan[1]DN" sublem="Šahan[1]DN" cf="Šahan" gw="1" sense="1" norm0="Šahan" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+        <l xml:id="P348776.l0076b" ref="P348776.15.2">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="x" literal="u +." sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U13" label="r 9 - r 9">
+        <d type="line-start" ref="P348776.16"/>
+        <l xml:id="P348776.l0076c" ref="P348776.16.1">
+            <xff:f xml:lang="sux" form="{d}{+ša₁₀-ha-an}|AH+ME|{+gu-du}-an" literal="+Šahan[1]DN" sublem="Šahan[1]DN" cf="Šahan" gw="1" sense="1" norm0="Šahan" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+        <d type="nonw" ref="P348776.16.2"/>
+        <l xml:id="P348776.l0076d" ref="P348776.16.3">
+            <xff:f xml:lang="akk" form="{d}GUDU₄.AN" literal="+Šahan[1]DN$" sublem="Šahan[1]DN$" cf="Šahan" gw="1" sense="1" norm0="Šahan" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+        <l xml:id="P348776.l0076e" ref="P348776.16.4">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}MAR.TU" literal="+Amurru[1]DN$ +." sublem="Amurru[1]DN$" cf="Amurru" gw="1" sense="1" norm0="Amurru" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="FORM|CF|NORM0|SENSE">
+            </dict>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U14" label="r 10 - r 10">
+        <d type="line-start" ref="P348776.17"/>
+        <l xml:id="P348776.l0076f" ref="P348776.17.1">
+            <xff:f xml:lang="sux" form="{d}i-ki-tu₄" literal="+Ikitu[1]DN" sublem="Ikitu[1]DN" cf="Ikitu" gw="1" sense="1" norm0="Ikitu" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <l xml:id="P348776.l00770" ref="P348776.17.2">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="sux" form="dam-bi{munus}" invalid="1" literal="dam[wife] +." sublem="dam[wife]" cf="dam" gw="wife" sense="wife"/>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U15" label="r 11 - r 11">
+        <d type="line-start" ref="P348776.18"/>
+        <l xml:id="P348776.l00771" ref="P348776.18.1">
+            <xff:f xml:lang="sux" form="{d}ra-am-ma-nu" literal="+Rammanu[1]DN" sublem="Rammanu[1]DN" cf="Rammanu" gw="1" sense="1" norm0="Rammanu" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <d type="nonw" ref="P348776.18.2"/>
+        <l xml:id="P348776.l00772" ref="P348776.18.3">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}ra-am-ma-nu" literal="+Rammanu[1]DN$ +." sublem="Rammanu[1]DN$" cf="Rammanu" gw="1" sense="1" norm0="Rammanu" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="FORM|CF|NORM0|SENSE">
+            </dict>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U16" label="r 12 - r 12">
+        <d type="line-start" ref="P348776.19"/>
+        <l xml:id="P348776.l00773" ref="P348776.19.1">
+            <xff:f xml:lang="sux" form="{d}{+ra-am-ma-nu}rammanu" literal="+Rammanu[1]DN" sublem="Rammanu[1]DN" cf="Rammanu" gw="1" sense="1" norm0="Rammanu" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+        <d type="nonw" ref="P348776.19.2"/>
+        <l xml:id="P348776.l00774" ref="P348776.19.3">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}ra-am-ma-nu" literal="+Rammanu[1]DN$ +." sublem="Rammanu[1]DN$" cf="Rammanu" gw="1" sense="1" norm0="Rammanu" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="FORM|CF|NORM0|SENSE">
+            </dict>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U17" label="r 13 - r 13">
+        <d type="line-start" ref="P348776.20"/>
+        <l xml:id="P348776.l00775" ref="P348776.20.1">
+            <xff:f xml:lang="sux" form="{d}ra-a-šu₁₁" literal="+Rašu[1]DN" sublem="Rašu[1]DN" cf="Rašu" gw="1" sense="1" norm0="Rašu" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <d type="nonw" ref="P348776.20.2"/>
+        <l xml:id="P348776.l00776" ref="P348776.20.3">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}ra-a-šu₁₁" literal="+Rašu[1]DN$ +." sublem="Rašu[1]DN$" cf="Rašu" gw="1" sense="1" norm0="Rašu" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="FORM|CF|NORM0|SENSE">
+            </dict>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U18" label="r 14 - r 14">
+        <d type="line-start" ref="P348776.21"/>
+        <l xml:id="P348776.l00777" ref="P348776.21.1">
+            <xff:f xml:lang="sux" form="{d}{+ra-a-šu₁₁}rašu" literal="+Rašu[1]DN" sublem="Rašu[1]DN" cf="Rašu" gw="1" sense="1" norm0="Rašu" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+        <d type="nonw" ref="P348776.21.2"/>
+        <l xml:id="P348776.l00778" ref="P348776.21.3">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}RAŠU" literal="+Rašu[1]DN$ +." sublem="Rašu[1]DN$" cf="Rašu" gw="1" sense="1" norm0="Rašu" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U19" label="r 15 - r 15">
+        <d type="line-start" ref="P348776.22"/>
+        <l xml:id="P348776.l00779" ref="P348776.22.1">
+            <xff:f xml:lang="sux" form="{d}ilba₂{+il-ba}" literal="+Ilba[1]DN" sublem="Ilba[1]DN" cf="Ilba" gw="1" sense="1" norm0="Ilba" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <d type="nonw" ref="P348776.22.2"/>
+        <l xml:id="P348776.l0077a" ref="P348776.22.3">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}ILBA₂" literal="+Ilba[1]DN$ +." sublem="Ilba[1]DN$" cf="Ilba" gw="1" sense="1" norm0="Ilba" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U20" label="r 16 - r 16">
+        <d type="line-start" ref="P348776.23"/>
+        <l xml:id="P348776.l0077b" ref="P348776.23.1">
+            <xff:f xml:lang="sux" form="{d}alba₂{+al-ba}" literal="+Alba[1]DN" sublem="Alba[1]DN" cf="Alba" gw="1" sense="1" norm0="Alba" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <d type="nonw" ref="P348776.23.2"/>
+        <l xml:id="P348776.l0077c" ref="P348776.23.3">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}ALBA₂" literal="+Alba[1]DN$ +." sublem="Alba[1]DN$" cf="Alba" gw="1" sense="1" norm0="Alba" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U21" label="r 17 - r 17">
+        <d type="line-start" ref="P348776.24"/>
+        <l xml:id="P348776.l0077d" ref="P348776.24.1">
+            <xff:f xml:lang="sux" form="{d}ilha{+il-ha}" literal="+Ilha[1]DN" sublem="Ilha[1]DN" cf="Ilha" gw="1" sense="1" norm0="Ilha" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <d type="nonw" ref="P348776.24.2"/>
+        <l xml:id="P348776.l0077e" ref="P348776.24.3">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}ILHA" literal="+Ilha[1]DN$ +." sublem="Ilha[1]DN$" cf="Ilha" gw="1" sense="1" norm0="Ilha" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U22" label="r 18 - r 18">
+        <d type="line-start" ref="P348776.25"/>
+        <l xml:id="P348776.l0077f" ref="P348776.25.1">
+            <xff:f xml:lang="sux" form="{d}alha{+al-ha}" literal="+Alha[1]DN" sublem="Alha[1]DN" cf="Alha" gw="1" sense="1" norm0="Alha" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <d type="nonw" ref="P348776.25.2"/>
+        <l xml:id="P348776.l00780" ref="P348776.25.3">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}ALHA" literal="+Alha[1]DN$ +." sublem="Alha[1]DN$" cf="Alha" gw="1" sense="1" norm0="Alha" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime" m="CF|NORM0|SENSE" n="FORM">
+            </dict>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U23" label="r 19 - r 19">
+        <d type="line-start" ref="P348776.26"/>
+        <l xml:id="P348776.l00781" ref="P348776.26.1">
+            <xff:f xml:lang="sux" form="{d}baliha{+ba-li-ha}" literal="+Balihu[1]WN/baliha#X" sublem="Balihu[1]WN/baliha#X" cf="Balihu" gw="1" sense="1" norm0="Balihu" pos="WN" epos="WN" base="baliha" morph="X" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <l xml:id="P348776.l00782" ref="P348776.26.2">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="x" literal="u +." sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U24" label="r 20 - r 20">
+        <d type="line-start" ref="P348776.27"/>
+        <l xml:id="P348776.l00783" ref="P348776.27.1">
+            <xff:f xml:lang="sux" form="{d}diŋir-mar-tu" literal="+Diŋirmartu[1]DN" sublem="Diŋirmartu[1]DN" cf="Diŋirmartu" gw="1" sense="1" norm0="Diŋirmartu" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <l xml:id="P348776.l00784" ref="P348776.27.2">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}DINGIR-MAR.TU" literal="+Il-Amurru[1]DN$ +." sublem="Il-Amurru[1]DN$" cf="Il-Amurru" gw="1" sense="1" norm0="Il-Amurru" pos="DN" epos="DN" new="1" ex_norm0="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+    </c>
+    <c type="sentence" xml:id="P348776.U25" label="r 21 - r 21">
+        <d type="line-start" ref="P348776.28"/>
+        <l xml:id="P348776.l00785" ref="P348776.28.1">
+            <xff:f xml:lang="sux" form="{d}gu₂-bar-ra" literal="+Gubara[1]DN" sublem="Gubara[1]DN" cf="Gubara" gw="1" sense="1" norm0="Gubara" pos="DN" epos="DN" new="1"/>
+            <dict ref="#runtime">
+            </dict>
+        </l>
+        <l xml:id="P348776.l00786" ref="P348776.28.2">
+            <para pos="post">
+                <p class="boundary" type="sentence" text="+." level="0"/>
+            </para>
+            <xff:f xml:lang="akk" form="{d}x-x" literal="u +." sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+        </l>
+    </c>
+    <d type="nonx" ref="P348776.29"/>
+</c>
+</c>
+</xcl>
+</transliteration>

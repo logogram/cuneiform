@@ -1,0 +1,82 @@
+<xmd xmlns="http://oracc.org/ns/xmd/1.0" xmlns:xmd="http://oracc.org/ns/xmd/1.0" xml:id="P002296" langs="0x01000000" project="greta">
+    <cat>
+        <primary_publication>ATU 6, pl. 64, W 15772,p</primary_publication>
+        <author>Englund, Robert K. &amp;amp; Nissen, Hans J.</author>
+        <publication_date>2005</publication_date>
+        <publication_history/>
+        <citation/>
+        <author_remarks>Fundstelle wie W 15772,a; 3; „p&amp;quot; unklar auf der Tafel.</author_remarks>
+        <published_collation/>
+        <provenience c="207">Uruk</provenience>
+        <provenience_remarks/>
+        <excavation_no>W 15772,p</excavation_no>
+        <findspot_square>Nb/c XVI,4</findspot_square>
+        <findspot_remarks>Seleukidenmauer Schnitt Westhälfte</findspot_remarks>
+        <elevation/>
+        <stratigraphic_level/>
+        <genre c="1">Administrative</genre>
+        <subgenre c="1000000"/>
+        <subgenre_remarks>Text category: 0; Foreign ID: V</subgenre_remarks>
+        <language>undetermined</language>
+        <collection>Vorderasiatisches Museum, Berlin, Germany</collection>
+        <museum_no>VAT 16991</museum_no>
+        <accession_no/>
+        <acquisition_history/>
+        <object_type>tablet</object_type>
+        <material>clay</material>
+        <height>47</height>
+        <width>43</width>
+        <thickness>14</thickness>
+        <object_preservation/>
+        <surface_preservation/>
+        <condition_description/>
+        <object_remarks/>
+        <seal_id/>
+        <seal_information/>
+        <period c="5">Uruk III</period>
+        <date_of_origin/>
+        <dates_referenced/>
+        <date_remarks/>
+        <alternative_years/>
+        <accounting_period/>
+        <id_text>P002296</id_text>
+        <external_id/>
+        <cdli_remarks_internal_only>&amp;quot;p&amp;quot; unklar auf Tafel</cdli_remarks_internal_only>
+        <date_updated>06/08/2011</date_updated>
+        <db_source>20011204 protocuneiform_catalogue</db_source>
+        <designation c="1">ATU 6, pl. 64, W 15772,p</designation>
+        <collection_remarks_internal_only/>
+        <public>yes</public>
+        <join_information/>
+        <text_remarks/>
+        <period_remarks/>
+        <electronic_publication/>
+        <atf_up>cdlizope_20080212</atf_up>
+        <photo_up>tif4jpg/300ppi/P002296.tif</photo_up>
+        <lineart_up>tif4jpg_l/P002296_l.tif</lineart_up>
+        <date_entered/>
+        <public_images>yes</public_images>
+        <atf_source>Englund, Robert K.</atf_source>
+        <public_atf>yes</public_atf>
+        <google_earth_provenience/>
+        <google_earth_collection/>
+        <writing_phase/>
+        <cdli_comments/>
+        <collection_location_internal_only/>
+        <cdli_collation/>
+        <archive/>
+        <collection_copyright/>
+        <ark>21198/zz001q7fhk</ark>
+        <translation_source/>
+        <supergenre c="1">ELA</supergenre>
+        <xproject>CDLI</xproject>
+        <images/>
+        <xproject uri="http://cdli.ucla.edu/P002296">CDLI</xproject>
+        <images public="yes">
+            <img type="l" scale="thumb" src="tn_lineart/P002296_l.jpg" w="143" h="308" mtime="1100714178"/>
+            <img type="p" scale="thumb" src="tn_photo/P002296.jpg" w="132" h="293" mtime="1077511538"/>
+            <img type="p" scale="full" src="photo/P002296.jpg" w="528" h="1172" mtime="1079023386"/>
+            <img type="l" scale="full" src="lineart/P002296_l.jpg" w="285" h="616" mtime="1100634749"/>
+        </images>
+    </cat>
+</xmd>

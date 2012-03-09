@@ -1,0 +1,202 @@
+<transliteration xmlns="http://oracc.org/ns/xtf/1.0" xmlns:x="http://oracc.org/ns/xtf/1.0" xmlns:g="http://oracc.org/ns/gdl/1.0" xmlns:n="http://oracc.org/ns/norm/1.0" xmlns:syn="http://oracc.org/ns/syntax/1.0" xmlns:xh="http://www.w3.org/1999/xhtml" xml:id="P338462" n="STT 2, 142" xml:lang="akk" hand="0" project="greta" cols="1" haslinks="1">
+    <protocols scope="text">
+        <protocol type="project">cams</protocol>
+        <protocol type="atf">use unicode</protocol>
+        <protocol type="atf">lang akk</protocol>
+        <protocol type="link">def A = P338401 = STT 1, 084 (Šurpu 4)</protocol>
+        <protocol type="link">def B = P338402 = STT 1, 085 (Šurpu 4)</protocol>
+    </protocols>
+    <object type="tablet" implicit="1">
+        <surface type="obverse" implicit="1">
+            <column implicit="1" n="0">
+                <m type="locator" subtype="fragment">@surface side a</m>
+            </column>
+        </surface>
+        <surface type="surface" n="side a" label="side a frg.@surface side a" xml:id="P338462.side.a.frg._surface.side.a.1">
+            <column implicit="1" n="0">
+                <nonx xml:id="P338462.2" strict="1" extent="beginning" scope="line" state="missing">beginning broken</nonx>
+                <l xml:id="P338462.3" n="1'" label="side a frg.@surface side a 1'">
+                    <g:w xml:id="P338462.3.1" xml:lang="akk" form="x" g:delim=" ">
+                        <g:x g:type="ellipsis" xml:id="P338462.3.1.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P338462.3.1.0">...</g:x>
+                    </g:w>
+                    <g:w xml:id="P338462.3.2" xml:lang="akk" form="x" g:delim=" ">
+                        <g:v xml:id="P338462.3.2.0" g:status="ok">x</g:v>
+                    </g:w>
+                    <g:w xml:id="P338462.3.3" xml:lang="akk" form="x">
+                        <g:x g:type="ellipsis" xml:id="P338462.3.3.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P338462.3.3.0">...</g:x>
+                    </g:w>
+                </l>
+                <l xml:id="P338462.4" n="2'" label="side a frg.@surface side a 2'">
+                    <g:w xml:id="P338462.4.1" xml:lang="akk" form="x" g:delim=" ">
+                        <g:x g:type="ellipsis" xml:id="P338462.4.1.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[">...</g:x>
+                    </g:w>
+                    <g:w xml:id="P338462.4.2" xml:lang="akk" form="li-is-su-hu" g:delim=" ">
+                        <g:v xml:id="P338462.4.2.0" g:status="ok" g:break="missing" g:delim="-">li</g:v>
+                        <g:v xml:id="P338462.4.2.1" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P338462.4.1.0" g:delim="-">is</g:v>
+                        <g:v xml:id="P338462.4.2.2" g:break="damaged" g:ho="1" g:status="ok" g:delim="-" g:hc="1">su</g:v>
+                        <g:v xml:id="P338462.4.2.3" g:status="ok">hu</g:v>
+                    </g:w>
+                    <g:w xml:id="P338462.4.3" xml:lang="akk" form="x">
+                        <g:x g:type="ellipsis" xml:id="P338462.4.3.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P338462.4.3.0">...</g:x>
+                    </g:w>
+                </l>
+                <protocol type="link">|| A o 63</protocol>
+                <protocol type="link">|| B r 3</protocol>
+                <l xml:id="P338462.5" n="3'" label="side a frg.@surface side a 3'">
+                    <g:w xml:id="P338462.5.1" xml:lang="akk" form="x" g:delim=" ">
+                        <g:x g:type="ellipsis" xml:id="P338462.5.1.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[">...</g:x>
+                    </g:w>
+                    <g:w xml:id="P338462.5.2" xml:lang="akk" form="li-is-su-u₂" g:delim=" ">
+                        <g:v xml:id="P338462.5.2.0" g:status="ok" g:break="missing" g:delim="-">li</g:v>
+                        <g:v xml:id="P338462.5.2.1" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P338462.5.1.0" g:delim="-">is</g:v>
+                        <g:v xml:id="P338462.5.2.2" g:status="ok" g:delim="-">su</g:v>
+                        <g:v g:accented="ú" g:utf8="𒌑" xml:id="P338462.5.2.3" g:status="ok">u₂</g:v>
+                    </g:w>
+                    <g:w xml:id="P338462.5.3" xml:lang="akk" form="x">
+                        <g:x g:type="ellipsis" xml:id="P338462.5.3.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P338462.5.3.0">...</g:x>
+                    </g:w>
+                </l>
+                <protocol type="link">|| A o 64</protocol>
+                <protocol type="link">|| B r 4</protocol>
+                <l xml:id="P338462.6" n="4'" label="side a frg.@surface side a 4'">
+                    <g:w xml:id="P338462.6.1" xml:lang="akk" form="x" g:delim=" ">
+                        <g:x g:type="ellipsis" xml:id="P338462.6.1.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[">...</g:x>
+                    </g:w>
+                    <g:w xml:id="P338462.6.2" xml:lang="akk" form="li-šal-la-mu" g:delim=" ">
+                        <g:v xml:id="P338462.6.2.0" g:status="ok" g:break="missing" g:delim="-">li</g:v>
+                        <g:v g:utf8="𒊩" xml:id="P338462.6.2.1" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P338462.6.1.0" g:delim="-">šal</g:v>
+                        <g:v xml:id="P338462.6.2.2" g:break="damaged" g:queried="1" g:ho="1" g:status="ok" g:delim="-" g:hc="1">la</g:v>
+                        <g:v xml:id="P338462.6.2.3" g:status="ok">mu</g:v>
+                    </g:w>
+                    <g:w xml:id="P338462.6.3" xml:lang="akk" form="x">
+                        <g:x g:type="ellipsis" xml:id="P338462.6.3.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P338462.6.3.0">...</g:x>
+                    </g:w>
+                </l>
+                <protocol type="link">|| A o 64</protocol>
+                <protocol type="link">|| B r 4</protocol>
+                <l xml:id="P338462.7" n="5'" label="side a frg.@surface side a 5'">
+                    <g:w xml:id="P338462.7.1" xml:lang="akk" form="x" g:delim=" ">
+                        <g:x g:type="ellipsis" xml:id="P338462.7.1.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P338462.7.1.0">...</g:x>
+                    </g:w>
+                    <g:w xml:id="P338462.7.2" xml:lang="akk" form="x" g:delim=" ">
+                        <g:v xml:id="P338462.7.2.0" g:status="ok">x</g:v>
+                    </g:w>
+                    <g:w xml:id="P338462.7.3" xml:lang="akk" form="ma-aq-tu₂" g:delim=" ">
+                        <g:v xml:id="P338462.7.3.0" g:status="ok" g:delim="-">ma</g:v>
+                        <g:v g:utf8="𒀝" xml:id="P338462.7.3.1" g:status="ok" g:delim="-">aq</g:v>
+                        <g:v g:accented="tú" g:utf8="𒌓" xml:id="P338462.7.3.2" g:status="ok">tu₂</g:v>
+                    </g:w>
+                    <g:w xml:id="P338462.7.4" xml:lang="akk" form="x">
+                        <g:x g:type="ellipsis" xml:id="P338462.7.4.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P338462.7.4.0">...</g:x>
+                    </g:w>
+                </l>
+                <protocol type="link">|| A o 65</protocol>
+                <protocol type="link">|| B r 5</protocol>
+                <l xml:id="P338462.8" n="6'" label="side a frg.@surface side a 6'">
+                    <g:w xml:id="P338462.8.1" xml:lang="akk" form="x" g:delim=" ">
+                        <g:x g:type="ellipsis" xml:id="P338462.8.1.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[">...</g:x>
+                    </g:w>
+                    <g:w xml:id="P338462.8.2" xml:lang="akk" form="li-šir" g:delim=" ">
+                        <g:v xml:id="P338462.8.2.0" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P338462.8.1.0" g:delim="-">li</g:v>
+                        <g:v g:utf8="𒋓" xml:id="P338462.8.2.1" g:status="ok">šir</g:v>
+                    </g:w>
+                    <g:w xml:id="P338462.8.3" xml:lang="akk" form="x">
+                        <g:x g:type="ellipsis" xml:id="P338462.8.3.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P338462.8.3.0">...</g:x>
+                    </g:w>
+                </l>
+                <protocol type="link">|| A o 65</protocol>
+                <protocol type="link">|| B r 5</protocol>
+                <nonx xml:id="P338462.9" strict="1" extent="rest" scope="line" state="missing">rest broken</nonx>
+            </column>
+        </surface>
+    </object>
+    <xcl xmlns="http://oracc.org/ns/xcl/1.0" xmlns:xff="http://oracc.org/ns/xff/1.0" project="greta" textid="P338462">
+        <c type="text" xml:id="P338462.U0">
+            <mds xml:id="P338462.m0">
+                <m k="subgenre">
+                </m>
+                <m k="genre">
+                </m>
+                <m k="period">Neo-Assyrian</m>
+                <m k="provenience">Sultantepe</m>
+            </mds>
+            <d type="surface" ref=""/>
+            <d type="surface" ref="P338462.side.a.frg._surface.side.a.1"/>
+            <d type="nonx" ref="P338462.2"/>
+            <c type="discourse" subtype="body" xml:id="P338462.U1">
+            <d type="line-start" ref="P338462.3"/>
+            <c type="sentence" xml:id="P338462.U2" label="side a frg.@surface side a 1' - side a frg.@surface side a 6'">
+            <l xml:id="P338462.l00d63" ref="P338462.3.1">
+                <xff:f xml:lang="akk" form="x" literal="u" sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+            </l>
+            <l xml:id="P338462.l00d64" ref="P338462.3.2">
+                <xff:f xml:lang="akk" form="x" literal="u" sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+            </l>
+            <l xml:id="P338462.l00d65" ref="P338462.3.3">
+                <xff:f xml:lang="akk" form="x" literal="u" sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+            </l>
+            <d type="line-start" ref="P338462.4"/>
+            <l xml:id="P338462.l00d66" ref="P338462.4.1">
+                <xff:f xml:lang="akk" form="x" literal="u" sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+            </l>
+            <l xml:id="P338462.l00d67" ref="P338462.4.2">
+                <xff:f xml:lang="akk" form="li-is-su-hu" invalid="1" literal="lissuhū[remove]V" sublem="lissuhū[remove]V" cf="lissuhū" gw="remove" sense="remove" pos="V" epos="V"/>
+            </l>
+            <l xml:id="P338462.l00d68" ref="P338462.4.3">
+                <xff:f xml:lang="akk" form="x" literal="u" sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+            </l>
+            <d type="line-start" ref="P338462.5"/>
+            <l xml:id="P338462.l00d69" ref="P338462.5.1">
+                <xff:f xml:lang="akk" form="x" literal="u" sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+            </l>
+            <l xml:id="P338462.l00d6a" ref="P338462.5.2">
+                <xff:f xml:lang="akk" form="li-is-su-u₂" literal="+nesû[be(come) distant//eradicate]V$lissû" sublem="nesû[be(come) distant//eradicate]V$lissû" cf="nesû" gw="be(come) distant" sense="eradicate" norm0="lissû" pos="V" epos="V" new="1" ex_norm0="1" ex_sense="1"/>
+                <dict ref="#runtime">
+                </dict>
+            </l>
+            <l xml:id="P338462.l00d6b" ref="P338462.5.3">
+                <xff:f xml:lang="akk" form="x" literal="u" sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+            </l>
+            <d type="line-start" ref="P338462.6"/>
+            <l xml:id="P338462.l00d6c" ref="P338462.6.1">
+                <xff:f xml:lang="akk" form="x" literal="u" sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+            </l>
+            <l xml:id="P338462.l00d6d" ref="P338462.6.2">
+                <xff:f xml:lang="akk" form="li-šal-la-mu" literal="+šalāmu[be(come) healthy//correct]V$lišallamū" sublem="šalāmu[be(come) healthy//correct]V$lišallamū" cf="šalāmu" gw="be(come) healthy" sense="correct" norm0="lišallamū" pos="V" epos="V" new="1" ex_norm0="1" ex_sense="1"/>
+                <dict ref="#runtime">
+                </dict>
+            </l>
+            <l xml:id="P338462.l00d6e" ref="P338462.6.3">
+                <xff:f xml:lang="akk" form="x" literal="u" sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+            </l>
+            <d type="line-start" ref="P338462.7"/>
+            <l xml:id="P338462.l00d6f" ref="P338462.7.1">
+                <xff:f xml:lang="akk" form="x" literal="u" sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+            </l>
+            <l xml:id="P338462.l00d70" ref="P338462.7.2">
+                <xff:f xml:lang="akk" form="x" literal="u" sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+            </l>
+            <l xml:id="P338462.l00d71" ref="P338462.7.3">
+                <xff:f xml:lang="akk" form="ma-aq-tu₂" invalid="1" literal="maqtu[fallen one]N" sublem="maqtu[fallen one]N" cf="maqtu" gw="fallen one" sense="fallen one" pos="N" epos="N"/>
+            </l>
+            <l xml:id="P338462.l00d72" ref="P338462.7.4">
+                <xff:f xml:lang="akk" form="x" literal="u" sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+            </l>
+            <d type="line-start" ref="P338462.8"/>
+            <l xml:id="P338462.l00d73" ref="P338462.8.1">
+                <xff:f xml:lang="akk" form="x" literal="u" sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+            </l>
+            <l xml:id="P338462.l00d74" ref="P338462.8.2">
+                <xff:f xml:lang="akk" form="li-šir" literal="+ešēru[go well//be(come) right]V$līšir" sublem="ešēru[go well//be(come) right]V$līšir" cf="ešēru" gw="go well" sense="be(come) right" norm0="līšir" pos="V" epos="V" new="1" ex_norm0="1" ex_sense="1"/>
+                <dict ref="#runtime">
+                </dict>
+            </l>
+            <l xml:id="P338462.l00d75" ref="P338462.8.3">
+                <xff:f xml:lang="akk" form="x" literal="u" sublem="u" gw="1" sense="1" pos="u" epos="u"/>
+            </l>
+            <d type="nonx" ref="P338462.9"/>
+        </c>
+    </c>
+</c>
+</xcl>
+</transliteration>

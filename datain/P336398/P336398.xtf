@@ -1,0 +1,640 @@
+<transliteration xmlns="http://oracc.org/ns/xtf/1.0" xmlns:x="http://oracc.org/ns/xtf/1.0" xmlns:g="http://oracc.org/ns/gdl/1.0" xmlns:n="http://oracc.org/ns/norm/1.0" xmlns:syn="http://oracc.org/ns/syntax/1.0" xmlns:xh="http://www.w3.org/1999/xhtml" xml:id="P336398" n="SAA 08 060" xml:lang="akk" hand="0" project="greta" cols="1">
+    <protocols scope="text">
+        <protocol type="project">saa</protocol>
+        <protocol type="atf">lang akk</protocol>
+        <protocol type="key">file=SAA08/RMA_NA.saa</protocol>
+        <protocol type="key">musno=Sm 1974</protocol>
+        <protocol type="key">cdli=RMA 062</protocol>
+        <protocol type="key">writer=nae</protocol>
+    </protocols>
+    <object type="tablet" implicit="1">
+        <surface type="obverse" label="o" xml:id="P336398.o.1">
+            <column implicit="1" n="0">
+                <l xml:id="P336398.2" n="1" label="o 1">
+                    <g:w xml:id="P336398.2.1" xml:lang="akk" form="1" g:delim=" ">
+                        <g:n form="1" g:utf8="𒁹" xml:id="P336398.2.1.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing">
+                            <g:r>1</g:r>
+                        </g:n>
+                    </g:w>
+                    <g:w xml:id="P336398.2.2" xml:lang="akk" form="30" g:delim=" ">
+                        <g:n form="30" g:utf8="𒌍" xml:id="P336398.2.2.0" g:status="ok" g:break="missing">
+                            <g:r>30</g:r>
+                        </g:n>
+                    </g:w>
+                    <g:w xml:id="P336398.2.3" xml:lang="akk" form="ina" g:delim=" ">
+                        <g:v g:utf8="𒀸" xml:id="P336398.2.3.0" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P336398.2.1.0">ina</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.2.4" xml:lang="akk" form="{ITI}BARAG" g:delim=" ">
+                        <g:d g:role="semantic" g:pos="pre">
+                            <g:s g:utf8="𒌗" xml:id="P336398.2.4.0" g:status="ok" g:role="logo" g:logolang="sux">ITI</g:s>
+                        </g:d>
+                        <g:s g:utf8="𒁈" xml:id="P336398.2.4.1" g:status="ok" g:role="logo" g:logolang="sux">BARAG</g:s>
+                    </g:w>
+                    <g:w xml:id="P336398.2.5" xml:lang="akk" form="UD-30-KAM₂" g:delim=" ">
+                        <g:s xml:id="P336398.2.5.0" g:status="ok" g:role="logo" g:logolang="sux" g:delim="-">UD</g:s>
+                        <g:n form="30" g:utf8="𒌍" xml:id="P336398.2.5.1" g:status="ok" g:delim="-">
+                            <g:r>30</g:r>
+                        </g:n>
+                        <g:s g:accented="KÁM" form="KAM₂" g:utf8="𒆚" xml:id="P336398.2.5.2" g:status="ok" g:role="logo" g:logolang="sux">
+                            <g:b>KAM₂</g:b>
+                            <g:f>t</g:f>
+                        </g:s>
+                    </g:w>
+                    <g:w xml:id="P336398.2.6" xml:lang="akk" form="IGI">
+                        <g:s xml:id="P336398.2.6.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:role="logo" g:logolang="sux" g:c="]" g:breakEnd="P336398.2.6.0">IGI</g:s>
+                    </g:w>
+                </l>
+                <l xml:id="P336398.3" n="2" label="o 2">
+                    <g:w xml:id="P336398.3.1" xml:lang="akk" form="su-bar-tum" g:delim=" ">
+                        <g:v xml:id="P336398.3.1.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P336398.3.1.0" g:delim="-">su</g:v>
+                        <g:v xml:id="P336398.3.1.1" g:status="ok" g:delim="-">bar</g:v>
+                        <g:v xml:id="P336398.3.1.2" g:status="ok">tum</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.3.2" xml:lang="akk" form="ah-la-ma-a" g:delim=" ">
+                        <g:v xml:id="P336398.3.2.0" g:status="ok" g:delim="-">ah</g:v>
+                        <g:v xml:id="P336398.3.2.1" g:status="ok" g:delim="-">la</g:v>
+                        <g:v xml:id="P336398.3.2.2" g:status="ok" g:delim="-">ma</g:v>
+                        <g:v xml:id="P336398.3.2.3" g:status="ok">a</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.3.3" xml:lang="akk" form="KU₂">
+                        <g:s g:accented="KÚ" g:utf8="𒅥" xml:id="P336398.3.3.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:role="logo" g:logolang="sux" g:c="]" g:breakEnd="P336398.3.3.0">KU₂</g:s>
+                    </g:w>
+                </l>
+                <lg>
+                    <l xml:id="P336398.4" n="3" label="o 3">
+                        <g:w xml:id="P336398.4.1" xml:lang="akk" form="EME" g:delim=" ">
+                            <g:s g:utf8="𒅴" xml:id="P336398.4.1.0" g:status="ok" g:role="logo" g:logolang="sux">EME</g:s>
+                        </g:w>
+                        <g:nonw xml:id="P336398.4.2" xml:lang="akk" type="punct" g:delim=" ">
+                            <g:p g:type="/" g:utf8="𒑰" xml:id="P336398.4.2.0" g:status="ok"/>
+                        </g:nonw>
+                        <g:w xml:id="P336398.4.3" xml:lang="akk" form="BAR-tum" g:delim=" ">
+                            <g:s xml:id="P336398.4.3.0" g:status="ok" g:role="logo" g:logolang="sux" g:delim="-">BAR</g:s>
+                            <g:v xml:id="P336398.4.3.1" g:status="ok">tum</g:v>
+                        </g:w>
+                        <g:nonw xml:id="P336398.4.4" xml:lang="akk" type="punct" g:delim=" ">
+                            <g:p g:type="/" g:utf8="𒑰" xml:id="P336398.4.4.0" g:status="ok"/>
+                        </g:nonw>
+                        <g:w xml:id="P336398.4.5" xml:lang="akk" form="KUR-MAR.TU{KI}" g:delim=" ">
+                            <g:s xml:id="P336398.4.5.0" g:status="ok" g:role="logo" g:logolang="sux" g:delim="--" g:em="1">KUR</g:s>
+                            <g:gg g:type="logo">
+                                <g:s xml:id="P336398.4.5.1" g:status="ok" g:role="logo" g:logolang="sux" g:delim=".">MAR</g:s>
+                                <g:s g:utf8="𒌅" xml:id="P336398.4.5.2" g:status="ok" g:role="logo" g:logolang="sux">TU</g:s>
+                                <g:d g:role="semantic" g:pos="post">
+                                    <g:s g:utf8="𒆠" xml:id="P336398.4.5.3" g:status="ok" g:role="logo" g:logolang="sux">KI</g:s>
+                                </g:d>
+                            </g:gg>
+                        </g:w>
+                        <g:w xml:id="P336398.4.6" xml:lang="akk" form="i-be-el">
+                            <g:v xml:id="P336398.4.6.0" g:status="ok" g:delim="-">i</g:v>
+                            <g:v xml:id="P336398.4.6.1" g:status="ok" g:delim="-">be</g:v>
+                            <g:v xml:id="P336398.4.6.2" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">el</g:v>
+                        </g:w>
+                    </l>
+                    <l type="gus">
+                        <g:w xml:id="P336398.4.1000" xml:lang="akk" form="li-ša₂-a-nu" g:delim=" ">
+                            <g:v xml:id="P336398.4.1000.0" g:break="damaged" g:ho="1" g:status="ok" g:delim="-" g:hc="1">li</g:v>
+                            <g:v g:accented="šá" xml:id="P336398.4.1000.1" g:status="ok" g:delim="-">ša₂</g:v>
+                            <g:v xml:id="P336398.4.1000.2" g:status="ok" g:delim="-">a</g:v>
+                            <g:v xml:id="P336398.4.1000.3" g:status="ok">nu</g:v>
+                        </g:w>
+                        <g:nonw xml:id="P336398.4.1001" xml:lang="akk" type="punct" g:delim=" ">
+                            <g:p g:type="/" g:utf8="𒑰" xml:id="P336398.4.1001.0" g:status="ok"/>
+                        </g:nonw>
+                        <g:w xml:id="P336398.4.1002" xml:lang="akk" form="a-hi-tum" g:delim=" ">
+                            <g:v xml:id="P336398.4.1002.0" g:status="ok" g:delim="-">a</g:v>
+                            <g:v xml:id="P336398.4.1002.1" g:status="ok" g:delim="-">hi</g:v>
+                            <g:v xml:id="P336398.4.1002.2" g:status="ok">tum</g:v>
+                        </g:w>
+                        <g:w xml:id="P336398.4.1003" xml:lang="akk" form="i-bi-il">
+                            <g:v xml:id="P336398.4.1003.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P336398.4.1003.0" g:delim="-">i</g:v>
+                            <g:v xml:id="P336398.4.1003.1" g:status="ok" g:delim="-">bi</g:v>
+                            <g:v xml:id="P336398.4.1003.2" g:status="ok">il</g:v>
+                        </g:w>
+                    </l>
+                </lg>
+                <nonx xml:id="P336398.5" strict="1" extent="n" scope="line" state="ruling">ruling</nonx>
+                <l xml:id="P336398.6" n="4" label="o 4">
+                    <g:w xml:id="P336398.6.1" xml:lang="akk" form="a-ni-nu" g:delim=" ">
+                        <g:v xml:id="P336398.6.1.0" g:status="ok" g:delim="-">a</g:v>
+                        <g:v xml:id="P336398.6.1.1" g:status="ok" g:delim="-">ni</g:v>
+                        <g:v xml:id="P336398.6.1.2" g:status="ok">nu</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.6.2" xml:lang="akk" form="SU.BIR₄{KI}">
+                        <g:gg g:type="logo">
+                            <g:s g:utf8="𒋢" xml:id="P336398.6.2.0" g:status="ok" g:role="logo" g:logolang="sux" g:delim=".">SU</g:s>
+                            <g:s g:utf8="𒂔" xml:id="P336398.6.2.1" g:status="ok" g:role="logo" g:logolang="sux">BIR₄</g:s>
+                            <g:d g:role="semantic" g:pos="post">
+                                <g:s g:utf8="𒆠" xml:id="P336398.6.2.2" g:status="ok" g:role="logo" g:logolang="sux">KI</g:s>
+                            </g:d>
+                        </g:gg>
+                    </g:w>
+                </l>
+                <nonx xml:id="P336398.7" strict="1" extent="n" scope="line" state="ruling">ruling</nonx>
+                <l xml:id="P336398.8" n="5" label="o 5">
+                    <g:w xml:id="P336398.8.1" xml:lang="akk" form="1" g:delim=" ">
+                        <g:n form="1" g:utf8="𒁹" xml:id="P336398.8.1.0" g:status="ok">
+                            <g:r>1</g:r>
+                        </g:n>
+                    </g:w>
+                    <g:w xml:id="P336398.8.2" xml:lang="akk" form="30" g:delim=" ">
+                        <g:n form="30" g:utf8="𒌍" xml:id="P336398.8.2.0" g:status="ok">
+                            <g:r>30</g:r>
+                        </g:n>
+                    </g:w>
+                    <g:w xml:id="P336398.8.3" xml:lang="akk" form="UD-30-KAM₂" g:delim=" ">
+                        <g:s xml:id="P336398.8.3.0" g:status="ok" g:role="logo" g:logolang="sux" g:delim="-">UD</g:s>
+                        <g:n form="30" g:utf8="𒌍" xml:id="P336398.8.3.1" g:status="ok" g:delim="-">
+                            <g:r>30</g:r>
+                        </g:n>
+                        <g:s g:accented="KÁM" form="KAM₂" g:utf8="𒆚" xml:id="P336398.8.3.2" g:status="ok" g:role="logo" g:logolang="sux">
+                            <g:b>KAM₂</g:b>
+                            <g:f>t</g:f>
+                        </g:s>
+                    </g:w>
+                    <g:w xml:id="P336398.8.4" xml:lang="akk" form="IGI">
+                        <g:s xml:id="P336398.8.4.0" g:status="ok" g:role="logo" g:logolang="sux">IGI</g:s>
+                    </g:w>
+                </l>
+                <l xml:id="P336398.9" n="6" label="o 6">
+                    <g:w xml:id="P336398.9.1" xml:lang="akk" form="šu-ru-up-pu-u" g:delim=" ">
+                        <g:v xml:id="P336398.9.1.0" g:status="ok" g:delim="-">šu</g:v>
+                        <g:v xml:id="P336398.9.1.1" g:status="ok" g:delim="-">ru</g:v>
+                        <g:v xml:id="P336398.9.1.2" g:status="ok" g:delim="-">up</g:v>
+                        <g:v xml:id="P336398.9.1.3" g:status="ok" g:delim="-">pu</g:v>
+                        <g:v xml:id="P336398.9.1.4" g:status="ok">u</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.9.2" xml:lang="akk" form="ina" g:delim=" ">
+                        <g:v g:utf8="𒀸" xml:id="P336398.9.2.0" g:status="ok">ina</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.9.3" xml:lang="akk" form="KUR" g:delim=" ">
+                        <g:s xml:id="P336398.9.3.0" g:status="ok" g:role="logo" g:logolang="sux">KUR</g:s>
+                    </g:w>
+                    <g:w xml:id="P336398.9.4" xml:lang="akk" form="GAL₂-ši">
+                        <g:s g:accented="GÁL" xml:id="P336398.9.4.0" g:status="ok" g:role="logo" g:logolang="sux" g:delim="-">GAL₂</g:s>
+                        <g:v xml:id="P336398.9.4.1" g:status="ok">ši</g:v>
+                    </g:w>
+                </l>
+                <nonx xml:id="P336398.10" strict="1" extent="n" scope="line" state="ruling">ruling</nonx>
+                <l xml:id="P336398.11" n="7" label="o 7">
+                    <g:w xml:id="P336398.11.1" xml:lang="akk" form="šu-ru-up-pu-u" g:delim=" ">
+                        <g:v xml:id="P336398.11.1.0" g:status="ok" g:delim="-">šu</g:v>
+                        <g:v xml:id="P336398.11.1.1" g:status="ok" g:delim="-">ru</g:v>
+                        <g:v xml:id="P336398.11.1.2" g:status="ok" g:delim="-">up</g:v>
+                        <g:v xml:id="P336398.11.1.3" g:status="ok" g:delim="-">pu</g:v>
+                        <g:v xml:id="P336398.11.1.4" g:status="ok">u</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.11.2" xml:lang="akk" form="ku-uṣ-ṣu">
+                        <g:v xml:id="P336398.11.2.0" g:status="ok" g:delim="-">ku</g:v>
+                        <g:v g:utf8="𒊻" xml:id="P336398.11.2.1" g:status="ok" g:delim="-">uṣ</g:v>
+                        <g:v xml:id="P336398.11.2.2" g:status="ok">ṣu</g:v>
+                    </g:w>
+                </l>
+                <nonx xml:id="P336398.12" strict="1" extent="n" scope="line" state="ruling">ruling</nonx>
+            </column>
+        </surface>
+        <surface type="reverse" label="r" xml:id="P336398.r.13">
+            <column implicit="1" n="0">
+                <l xml:id="P336398.14" n="1" label="r 1">
+                    <g:w xml:id="P336398.14.1" xml:lang="akk" form="{d}30" g:delim=" ">
+                        <g:d g:role="semantic" g:pos="pre">
+                            <g:v xml:id="P336398.14.1.0" g:status="ok">d</g:v>
+                        </g:d>
+                        <g:n form="30" g:utf8="𒌍" xml:id="P336398.14.1.1" g:status="ok">
+                            <g:r>30</g:r>
+                        </g:n>
+                    </g:w>
+                    <g:w xml:id="P336398.14.2" xml:lang="akk" form="ina" g:delim=" ">
+                        <g:v g:utf8="𒀸" xml:id="P336398.14.2.0" g:status="ok">ina</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.14.3" xml:lang="akk" form="{ITI}AB" g:delim=" ">
+                        <g:d g:role="semantic" g:pos="pre">
+                            <g:s g:utf8="𒌗" xml:id="P336398.14.3.0" g:status="ok" g:role="logo" g:logolang="sux">ITI</g:s>
+                        </g:d>
+                        <g:s xml:id="P336398.14.3.1" g:status="ok" g:role="logo" g:logolang="sux">AB</g:s>
+                    </g:w>
+                    <g:w xml:id="P336398.14.4" xml:lang="akk" form="UD-14-KAM₂">
+                        <g:s xml:id="P336398.14.4.0" g:status="ok" g:role="logo" g:logolang="sux" g:delim="-">UD</g:s>
+                        <g:n form="14" g:utf8="𒌋𒐉" xml:id="P336398.14.4.1" g:status="ok" g:delim="-">
+                            <g:r>14</g:r>
+                        </g:n>
+                        <g:s g:accented="KÁM" form="KAM₂" g:utf8="𒆚" xml:id="P336398.14.4.2" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:role="logo" g:logolang="sux" g:c="]" g:breakEnd="P336398.14.4.2">
+                            <g:b>KAM₂</g:b>
+                            <g:f>t</g:f>
+                        </g:s>
+                    </g:w>
+                </l>
+                <l xml:id="P336398.15" n="2" label="r 2">
+                    <g:w xml:id="P336398.15.1" xml:lang="akk" form="TA@v" g:delim=" ">
+                        <g:s form="TA@v" g:utf8="𒋬" xml:id="P336398.15.1.0" g:status="ok" g:role="logo" g:logolang="sux">
+                            <g:b>TA</g:b>
+                            <g:m>v</g:m>
+                        </g:s>
+                    </g:w>
+                    <g:w xml:id="P336398.15.2" xml:lang="akk" form="{d}ša₂-maš" g:delim=" ">
+                        <g:d g:role="semantic" g:pos="pre">
+                            <g:v xml:id="P336398.15.2.0" g:status="ok">d</g:v>
+                        </g:d>
+                        <g:v g:accented="šá" xml:id="P336398.15.2.1" g:status="ok" g:delim="-">ša₂</g:v>
+                        <g:v xml:id="P336398.15.2.2" g:status="ok">maš</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.15.3" xml:lang="akk" form="in-na-mar">
+                        <g:v xml:id="P336398.15.3.0" g:status="ok" g:delim="-">in</g:v>
+                        <g:v xml:id="P336398.15.3.1" g:break="damaged" g:ho="1" g:status="ok" g:delim="-" g:hc="1">na</g:v>
+                        <g:v g:utf8="𒈥" xml:id="P336398.15.3.2" g:status="ok">mar</g:v>
+                    </g:w>
+                </l>
+                <nonx xml:id="P336398.16" strict="1" extent="n" scope="line" state="ruling">ruling</nonx>
+                <l xml:id="P336398.17" n="3" label="r 3">
+                    <g:w xml:id="P336398.17.1" xml:lang="akk" form="{d}30" g:delim=" ">
+                        <g:d g:role="semantic" g:pos="pre">
+                            <g:v xml:id="P336398.17.1.0" g:status="ok">d</g:v>
+                        </g:d>
+                        <g:n form="30" g:utf8="𒌍" xml:id="P336398.17.1.1" g:status="ok">
+                            <g:r>30</g:r>
+                        </g:n>
+                    </g:w>
+                    <g:w xml:id="P336398.17.2" xml:lang="akk" form="ina" g:delim=" ">
+                        <g:v g:utf8="𒀸" xml:id="P336398.17.2.0" g:status="ok">ina</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.17.3" xml:lang="akk" form="{ITI}ZIZ₂" g:delim=" ">
+                        <g:d g:role="semantic" g:pos="pre">
+                            <g:s g:utf8="𒌗" xml:id="P336398.17.3.0" g:status="ok" g:role="logo" g:logolang="sux">ITI</g:s>
+                        </g:d>
+                        <g:s g:accented="ZÍZ" g:utf8="𒍩" xml:id="P336398.17.3.1" g:status="ok" g:role="logo" g:logolang="sux">ZIZ₂</g:s>
+                    </g:w>
+                    <g:w xml:id="P336398.17.4" xml:lang="akk" form="UD-mu" g:delim=" ">
+                        <g:s xml:id="P336398.17.4.0" g:status="ok" g:role="logo" g:logolang="sux" g:delim="-">UD</g:s>
+                        <g:v xml:id="P336398.17.4.1" g:status="ok">mu</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.17.5" xml:lang="akk" form="u₂-šal-lam">
+                        <g:v g:accented="ú" xml:id="P336398.17.5.0" g:status="ok" g:delim="-">u₂</g:v>
+                        <g:v g:utf8="𒊩" xml:id="P336398.17.5.1" g:status="ok" g:delim="-">šal</g:v>
+                        <g:v xml:id="P336398.17.5.2" g:status="ok">lam</g:v>
+                    </g:w>
+                </l>
+                <l xml:id="P336398.18" n="4" label="r 4">
+                    <g:w xml:id="P336398.18.1" xml:lang="akk" form="UD-14-KAM₂" g:delim=" ">
+                        <g:s xml:id="P336398.18.1.0" g:status="ok" g:role="logo" g:logolang="sux" g:delim="-">UD</g:s>
+                        <g:n form="14" g:utf8="𒌋𒐉" xml:id="P336398.18.1.1" g:status="ok" g:delim="-">
+                            <g:r>14</g:r>
+                        </g:n>
+                        <g:s g:accented="KÁM" form="KAM₂" g:utf8="𒆚" xml:id="P336398.18.1.2" g:status="ok" g:role="logo" g:logolang="sux">
+                            <g:b>KAM₂</g:b>
+                            <g:f>t</g:f>
+                        </g:s>
+                    </g:w>
+                    <g:w xml:id="P336398.18.2" xml:lang="akk" form="TA@v" g:delim=" ">
+                        <g:s form="TA@v" g:utf8="𒋬" xml:id="P336398.18.2.0" g:status="ok" g:role="logo" g:logolang="sux">
+                            <g:b>TA</g:b>
+                            <g:m>v</g:m>
+                        </g:s>
+                    </g:w>
+                    <g:w xml:id="P336398.18.3" xml:lang="akk" form="{d}ša₂-maš" g:delim=" ">
+                        <g:d g:role="semantic" g:pos="pre">
+                            <g:v xml:id="P336398.18.3.0" g:status="ok">d</g:v>
+                        </g:d>
+                        <g:v g:accented="šá" xml:id="P336398.18.3.1" g:status="ok" g:delim="-">ša₂</g:v>
+                        <g:v xml:id="P336398.18.3.2" g:status="ok">maš</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.18.4" xml:lang="akk" form="in-na-mar">
+                        <g:v xml:id="P336398.18.4.0" g:status="ok" g:delim="-">in</g:v>
+                        <g:v xml:id="P336398.18.4.1" g:status="ok" g:delim="-">na</g:v>
+                        <g:v g:utf8="𒈥" xml:id="P336398.18.4.2" g:status="ok">mar</g:v>
+                    </g:w>
+                </l>
+                <nonx xml:id="P336398.19" strict="1" extent="n" scope="line" state="ruling">ruling</nonx>
+                <l xml:id="P336398.20" n="5" label="r 5">
+                    <g:w xml:id="P336398.20.1" xml:lang="akk" form="{d}30" g:delim=" ">
+                        <g:d g:role="semantic" g:pos="pre">
+                            <g:v xml:id="P336398.20.1.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing">d</g:v>
+                        </g:d>
+                        <g:n form="30" g:utf8="𒌍" xml:id="P336398.20.1.1" g:status="ok" g:break="missing">
+                            <g:r>30</g:r>
+                        </g:n>
+                    </g:w>
+                    <g:w xml:id="P336398.20.2" xml:lang="akk" form="ina" g:delim=" ">
+                        <g:v g:utf8="𒀸" xml:id="P336398.20.2.0" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P336398.20.1.0">ina</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.20.3" xml:lang="akk" form="{ITI}ŠE" g:delim=" ">
+                        <g:d g:role="semantic" g:pos="pre">
+                            <g:s g:utf8="𒌗" xml:id="P336398.20.3.0" g:status="ok" g:role="logo" g:logolang="sux">ITI</g:s>
+                        </g:d>
+                        <g:s xml:id="P336398.20.3.1" g:status="ok" g:role="logo" g:logolang="sux">ŠE</g:s>
+                    </g:w>
+                    <g:w xml:id="P336398.20.4" xml:lang="akk" form="UD-mu" g:delim=" ">
+                        <g:s xml:id="P336398.20.4.0" g:status="ok" g:role="logo" g:logolang="sux" g:delim="-">UD</g:s>
+                        <g:v xml:id="P336398.20.4.1" g:status="ok">mu</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.20.5" xml:lang="akk" form="u₂-tar-ra">
+                        <g:v g:accented="ú" xml:id="P336398.20.5.0" g:status="ok" g:delim="-">u₂</g:v>
+                        <g:v xml:id="P336398.20.5.1" g:status="ok" g:delim="-">tar</g:v>
+                        <g:v xml:id="P336398.20.5.2" g:status="ok">ra</g:v>
+                    </g:w>
+                </l>
+                <l xml:id="P336398.21" n="6" label="r 6">
+                    <g:w xml:id="P336398.21.1" xml:lang="akk" form="UD-x-KAM₂" g:delim=" ">
+                        <g:s xml:id="P336398.21.1.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing" g:role="logo" g:logolang="sux" g:delim="-">UD</g:s>
+                        <g:v xml:id="P336398.21.1.1" g:status="ok" g:break="missing" g:delim="-">x</g:v>
+                        <g:s g:accented="KÁM" form="KAM₂" g:utf8="𒆚" xml:id="P336398.21.1.2" g:status="ok" g:break="missing" g:role="logo" g:logolang="sux">
+                            <g:b>KAM₂</g:b>
+                            <g:f>t</g:f>
+                        </g:s>
+                    </g:w>
+                    <g:w xml:id="P336398.21.2" xml:lang="akk" form="TA@v" g:delim=" ">
+                        <g:s form="TA@v" g:utf8="𒋬" xml:id="P336398.21.2.0" g:status="ok" g:break="missing" g:role="logo" g:logolang="sux" g:c="]" g:breakEnd="P336398.21.1.0">
+                            <g:b>TA</g:b>
+                            <g:m>v</g:m>
+                        </g:s>
+                    </g:w>
+                    <g:w xml:id="P336398.21.3" xml:lang="akk" form="{d}ša₂-maš" g:delim=" ">
+                        <g:d g:role="semantic" g:pos="pre">
+                            <g:v xml:id="P336398.21.3.0" g:status="ok">d</g:v>
+                        </g:d>
+                        <g:v g:accented="šá" xml:id="P336398.21.3.1" g:status="ok" g:delim="-">ša₂</g:v>
+                        <g:v xml:id="P336398.21.3.2" g:status="ok">maš</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.21.4" xml:lang="akk" form="in-na-mar">
+                        <g:v xml:id="P336398.21.4.0" g:status="ok" g:delim="-">in</g:v>
+                        <g:v xml:id="P336398.21.4.1" g:status="ok" g:delim="-">na</g:v>
+                        <g:v g:utf8="𒈥" xml:id="P336398.21.4.2" g:status="ok">mar</g:v>
+                    </g:w>
+                </l>
+                <nonx xml:id="P336398.22" strict="1" extent="n" scope="line" state="ruling">ruling</nonx>
+                <l xml:id="P336398.23" n="7" label="r 7">
+                    <g:w xml:id="P336398.23.1" xml:lang="akk" form="{d}30" g:delim=" ">
+                        <g:d g:role="semantic" g:pos="pre">
+                            <g:v xml:id="P336398.23.1.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing">d</g:v>
+                        </g:d>
+                        <g:n form="30" g:utf8="𒌍" xml:id="P336398.23.1.1" g:status="ok" g:break="missing">
+                            <g:r>30</g:r>
+                        </g:n>
+                    </g:w>
+                    <g:w xml:id="P336398.23.2" xml:lang="akk" form="ina" g:delim=" ">
+                        <g:v g:utf8="𒀸" xml:id="P336398.23.2.0" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P336398.23.1.0">ina</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.23.3" xml:lang="akk" form="{ITI}BARAG" g:delim=" ">
+                        <g:d g:role="semantic" g:pos="pre">
+                            <g:s g:utf8="𒌗" xml:id="P336398.23.3.0" g:break="damaged" g:ho="1" g:status="ok" g:role="logo" g:logolang="sux" g:hc="1">ITI</g:s>
+                        </g:d>
+                        <g:s g:utf8="𒁈" xml:id="P336398.23.3.1" g:status="ok" g:role="logo" g:logolang="sux">BARAG</g:s>
+                    </g:w>
+                    <g:w xml:id="P336398.23.4" xml:lang="akk" form="UD-mu" g:delim=" ">
+                        <g:s xml:id="P336398.23.4.0" g:status="ok" g:role="logo" g:logolang="sux" g:delim="-">UD</g:s>
+                        <g:v xml:id="P336398.23.4.1" g:status="ok">mu</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.23.5" xml:lang="akk" form="u₂-šal-lam">
+                        <g:v g:accented="ú" xml:id="P336398.23.5.0" g:status="ok" g:delim="-">u₂</g:v>
+                        <g:v g:utf8="𒊩" xml:id="P336398.23.5.1" g:status="ok" g:delim="-">šal</g:v>
+                        <g:v xml:id="P336398.23.5.2" g:status="ok">lam</g:v>
+                    </g:w>
+                </l>
+                <nonx xml:id="P336398.24" strict="1" extent="n" scope="line" state="ruling">ruling</nonx>
+                <l xml:id="P336398.25" n="8" label="r 8">
+                    <g:w xml:id="P336398.25.1" xml:lang="akk" form="ša" g:delim=" ">
+                        <g:v xml:id="P336398.25.1.0" g:breakStart="1" g:o="[" g:status="ok" g:break="missing">ša</g:v>
+                    </g:w>
+                    <g:w xml:id="P336398.25.2" xml:lang="akk" form="{1}{d}PA-PAB-MEŠ-SU">
+                        <g:d g:role="semantic" g:pos="pre">
+                            <g:n form="1" g:utf8="𒁹" xml:id="P336398.25.2.0" g:status="ok" g:break="missing">
+                                <g:r>1</g:r>
+                            </g:n>
+                        </g:d>
+                        <g:d g:role="semantic" g:pos="pre">
+                            <g:v xml:id="P336398.25.2.1" g:status="ok" g:break="missing" g:c="]" g:breakEnd="P336398.25.1.0">d</g:v>
+                        </g:d>
+                        <g:s xml:id="P336398.25.2.2" g:break="damaged" g:ho="1" g:status="ok" g:role="logo" g:logolang="sux" g:delim="--" g:em="1" g:hc="1">PA</g:s>
+                        <g:s g:utf8="𒉽" xml:id="P336398.25.2.3" g:status="ok" g:role="logo" g:logolang="sux" g:delim="-">PAB</g:s>
+                        <g:s xml:id="P336398.25.2.4" g:status="ok" g:role="logo" g:logolang="sux" g:delim="--" g:em="1">MEŠ</g:s>
+                        <g:s g:utf8="𒋢" xml:id="P336398.25.2.5" g:status="ok" g:role="logo" g:logolang="sux">SU</g:s>
+                    </g:w>
+                </l>
+            </column>
+        </surface>
+    </object>
+    <xcl xmlns="http://oracc.org/ns/xcl/1.0" xmlns:xff="http://oracc.org/ns/xff/1.0" project="greta" textid="P336398">
+        <c type="text" xml:id="P336398.U0">
+            <mds xml:id="P336398.m0">
+                <m k="subgenre">
+                </m>
+                <m k="genre">Omen</m>
+                <m k="period">Neo-Assyrian</m>
+                <m k="provenience">Nineveh</m>
+            </mds>
+            <d type="surface" ref="P336398.o.1"/>
+            <c type="discourse" subtype="body" xml:id="P336398.U1">
+            <d type="line-start" ref="P336398.2"/>
+            <c type="sentence" xml:id="P336398.U2" label="o 1 - r 8">
+            <l xml:id="P336398.l00717" ref="P336398.2.1">
+                <xff:f xml:lang="akk" form="1"/>
+            </l>
+            <l xml:id="P336398.l00718" ref="P336398.2.2">
+                <xff:f xml:lang="akk" form="30"/>
+            </l>
+            <l xml:id="P336398.l00719" ref="P336398.2.3">
+                <xff:f xml:lang="akk" form="ina"/>
+            </l>
+            <l xml:id="P336398.l0071a" ref="P336398.2.4">
+                <xff:f xml:lang="akk" form="{ITI}BARAG"/>
+            </l>
+            <l xml:id="P336398.l0071b" ref="P336398.2.5">
+                <xff:f xml:lang="akk" form="UD-30-KAM₂"/>
+            </l>
+            <l xml:id="P336398.l0071c" ref="P336398.2.6">
+                <xff:f xml:lang="akk" form="IGI"/>
+            </l>
+            <d type="line-start" ref="P336398.3"/>
+            <l xml:id="P336398.l0071d" ref="P336398.3.1">
+                <xff:f xml:lang="akk" form="su-bar-tum"/>
+            </l>
+            <l xml:id="P336398.l0071e" ref="P336398.3.2">
+                <xff:f xml:lang="akk" form="ah-la-ma-a"/>
+            </l>
+            <l xml:id="P336398.l0071f" ref="P336398.3.3">
+                <xff:f xml:lang="akk" form="KU₂"/>
+            </l>
+            <d type="line-start" ref=""/>
+            <d type="line-start" ref="P336398.4"/>
+            <l xml:id="P336398.l00720" ref="P336398.4.1">
+                <xff:f xml:lang="akk" form="EME"/>
+            </l>
+            <d type="nonw" ref="P336398.4.2"/>
+            <l xml:id="P336398.l00721" ref="P336398.4.3">
+                <xff:f xml:lang="akk" form="BAR-tum"/>
+            </l>
+            <d type="nonw" ref="P336398.4.4"/>
+            <l xml:id="P336398.l00722" ref="P336398.4.5">
+                <xff:f xml:lang="akk" form="KUR-MAR.TU{KI}"/>
+            </l>
+            <l xml:id="P336398.l00723" ref="P336398.4.6">
+                <xff:f xml:lang="akk" form="i-be-el"/>
+            </l>
+            <d type="line-start" ref=""/>
+            <l xml:id="P336398.l00724" ref="P336398.4.1000">
+                <xff:f xml:lang="akk" form="li-ša₂-a-nu"/>
+            </l>
+            <d type="nonw" ref="P336398.4.1001"/>
+            <l xml:id="P336398.l00725" ref="P336398.4.1002">
+                <xff:f xml:lang="akk" form="a-hi-tum"/>
+            </l>
+            <l xml:id="P336398.l00726" ref="P336398.4.1003">
+                <xff:f xml:lang="akk" form="i-bi-il"/>
+            </l>
+            <d type="nonx" ref="P336398.5"/>
+            <d type="line-start" ref="P336398.6"/>
+            <l xml:id="P336398.l00727" ref="P336398.6.1">
+                <xff:f xml:lang="akk" form="a-ni-nu"/>
+            </l>
+            <l xml:id="P336398.l00728" ref="P336398.6.2">
+                <xff:f xml:lang="akk" form="SU.BIR₄{KI}"/>
+            </l>
+            <d type="nonx" ref="P336398.7"/>
+            <d type="line-start" ref="P336398.8"/>
+            <l xml:id="P336398.l00729" ref="P336398.8.1">
+                <xff:f xml:lang="akk" form="1"/>
+            </l>
+            <l xml:id="P336398.l0072a" ref="P336398.8.2">
+                <xff:f xml:lang="akk" form="30"/>
+            </l>
+            <l xml:id="P336398.l0072b" ref="P336398.8.3">
+                <xff:f xml:lang="akk" form="UD-30-KAM₂"/>
+            </l>
+            <l xml:id="P336398.l0072c" ref="P336398.8.4">
+                <xff:f xml:lang="akk" form="IGI"/>
+            </l>
+            <d type="line-start" ref="P336398.9"/>
+            <l xml:id="P336398.l0072d" ref="P336398.9.1">
+                <xff:f xml:lang="akk" form="šu-ru-up-pu-u"/>
+            </l>
+            <l xml:id="P336398.l0072e" ref="P336398.9.2">
+                <xff:f xml:lang="akk" form="ina"/>
+            </l>
+            <l xml:id="P336398.l0072f" ref="P336398.9.3">
+                <xff:f xml:lang="akk" form="KUR"/>
+            </l>
+            <l xml:id="P336398.l00730" ref="P336398.9.4">
+                <xff:f xml:lang="akk" form="GAL₂-ši"/>
+            </l>
+            <d type="nonx" ref="P336398.10"/>
+            <d type="line-start" ref="P336398.11"/>
+            <l xml:id="P336398.l00731" ref="P336398.11.1">
+                <xff:f xml:lang="akk" form="šu-ru-up-pu-u"/>
+            </l>
+            <l xml:id="P336398.l00732" ref="P336398.11.2">
+                <xff:f xml:lang="akk" form="ku-uṣ-ṣu"/>
+            </l>
+            <d type="nonx" ref="P336398.12"/>
+            <d type="surface" ref="P336398.r.13"/>
+            <d type="line-start" ref="P336398.14"/>
+            <l xml:id="P336398.l00733" ref="P336398.14.1">
+                <xff:f xml:lang="akk" form="{d}30"/>
+            </l>
+            <l xml:id="P336398.l00734" ref="P336398.14.2">
+                <xff:f xml:lang="akk" form="ina"/>
+            </l>
+            <l xml:id="P336398.l00735" ref="P336398.14.3">
+                <xff:f xml:lang="akk" form="{ITI}AB"/>
+            </l>
+            <l xml:id="P336398.l00736" ref="P336398.14.4">
+                <xff:f xml:lang="akk" form="UD-14-KAM₂"/>
+            </l>
+            <d type="line-start" ref="P336398.15"/>
+            <l xml:id="P336398.l00737" ref="P336398.15.1">
+                <xff:f xml:lang="akk" form="TA@v"/>
+            </l>
+            <l xml:id="P336398.l00738" ref="P336398.15.2">
+                <xff:f xml:lang="akk" form="{d}ša₂-maš"/>
+            </l>
+            <l xml:id="P336398.l00739" ref="P336398.15.3">
+                <xff:f xml:lang="akk" form="in-na-mar"/>
+            </l>
+            <d type="nonx" ref="P336398.16"/>
+            <d type="line-start" ref="P336398.17"/>
+            <l xml:id="P336398.l0073a" ref="P336398.17.1">
+                <xff:f xml:lang="akk" form="{d}30"/>
+            </l>
+            <l xml:id="P336398.l0073b" ref="P336398.17.2">
+                <xff:f xml:lang="akk" form="ina"/>
+            </l>
+            <l xml:id="P336398.l0073c" ref="P336398.17.3">
+                <xff:f xml:lang="akk" form="{ITI}ZIZ₂"/>
+            </l>
+            <l xml:id="P336398.l0073d" ref="P336398.17.4">
+                <xff:f xml:lang="akk" form="UD-mu"/>
+            </l>
+            <l xml:id="P336398.l0073e" ref="P336398.17.5">
+                <xff:f xml:lang="akk" form="u₂-šal-lam"/>
+            </l>
+            <d type="line-start" ref="P336398.18"/>
+            <l xml:id="P336398.l0073f" ref="P336398.18.1">
+                <xff:f xml:lang="akk" form="UD-14-KAM₂"/>
+            </l>
+            <l xml:id="P336398.l00740" ref="P336398.18.2">
+                <xff:f xml:lang="akk" form="TA@v"/>
+            </l>
+            <l xml:id="P336398.l00741" ref="P336398.18.3">
+                <xff:f xml:lang="akk" form="{d}ša₂-maš"/>
+            </l>
+            <l xml:id="P336398.l00742" ref="P336398.18.4">
+                <xff:f xml:lang="akk" form="in-na-mar"/>
+            </l>
+            <d type="nonx" ref="P336398.19"/>
+            <d type="line-start" ref="P336398.20"/>
+            <l xml:id="P336398.l00743" ref="P336398.20.1">
+                <xff:f xml:lang="akk" form="{d}30"/>
+            </l>
+            <l xml:id="P336398.l00744" ref="P336398.20.2">
+                <xff:f xml:lang="akk" form="ina"/>
+            </l>
+            <l xml:id="P336398.l00745" ref="P336398.20.3">
+                <xff:f xml:lang="akk" form="{ITI}ŠE"/>
+            </l>
+            <l xml:id="P336398.l00746" ref="P336398.20.4">
+                <xff:f xml:lang="akk" form="UD-mu"/>
+            </l>
+            <l xml:id="P336398.l00747" ref="P336398.20.5">
+                <xff:f xml:lang="akk" form="u₂-tar-ra"/>
+            </l>
+            <d type="line-start" ref="P336398.21"/>
+            <l xml:id="P336398.l00748" ref="P336398.21.1">
+                <xff:f xml:lang="akk" form="UD-x-KAM₂"/>
+            </l>
+            <l xml:id="P336398.l00749" ref="P336398.21.2">
+                <xff:f xml:lang="akk" form="TA@v"/>
+            </l>
+            <l xml:id="P336398.l0074a" ref="P336398.21.3">
+                <xff:f xml:lang="akk" form="{d}ša₂-maš"/>
+            </l>
+            <l xml:id="P336398.l0074b" ref="P336398.21.4">
+                <xff:f xml:lang="akk" form="in-na-mar"/>
+            </l>
+            <d type="nonx" ref="P336398.22"/>
+            <d type="line-start" ref="P336398.23"/>
+            <l xml:id="P336398.l0074c" ref="P336398.23.1">
+                <xff:f xml:lang="akk" form="{d}30"/>
+            </l>
+            <l xml:id="P336398.l0074d" ref="P336398.23.2">
+                <xff:f xml:lang="akk" form="ina"/>
+            </l>
+            <l xml:id="P336398.l0074e" ref="P336398.23.3">
+                <xff:f xml:lang="akk" form="{ITI}BARAG"/>
+            </l>
+            <l xml:id="P336398.l0074f" ref="P336398.23.4">
+                <xff:f xml:lang="akk" form="UD-mu"/>
+            </l>
+            <l xml:id="P336398.l00750" ref="P336398.23.5">
+                <xff:f xml:lang="akk" form="u₂-šal-lam"/>
+            </l>
+            <d type="nonx" ref="P336398.24"/>
+            <d type="line-start" ref="P336398.25"/>
+            <l xml:id="P336398.l00751" ref="P336398.25.1">
+                <xff:f xml:lang="akk" form="ša"/>
+            </l>
+            <l xml:id="P336398.l00752" ref="P336398.25.2">
+                <xff:f xml:lang="akk" form="{1}{d}PA-PAB-MEŠ-SU"/>
+            </l>
+        </c>
+    </c>
+</c>
+</xcl>
+</transliteration>

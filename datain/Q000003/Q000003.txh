@@ -1,0 +1,1830 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table xmlns="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0" xmlns:xh="http://www.w3.org/1999/xhtml" class="composite" xml:id="Q000003" n="ED Lu A" cols="1" xlabel="ED Lu A">
+<tr class="l" xml:id="Q000003.1" label="ED Lu A, 1">
+<td class="lnum">
+<a name="a.Q000003.1">
+<span class="xlabel">1</span>
+<span class="lnum"> NaN 1</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.1.1" title="namšita[ruler]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004709.html')"><span class="">nam<sub>2</sub></span>-<sup>ŋiš<span class="sux"/></sup><span class="">šita</span></a>
+</span>
+</td>
+</tr>
+<tr class="l" label="ED Lu A, ">
+<td class="lnum"/>
+<td>
+<span class="sign">ŠITA</span>
+<span class="sign">GIŠ</span>
+<span class="sign">NAM<sub>2</sub></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.2" label="ED Lu A, 2">
+<td class="lnum">
+<a name="a.Q000003.2">
+<span class="xlabel">2</span>
+<span class="lnum">2</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.2.1" title="namtuku[an official]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004723.html')"><span class="">nam<sub>2</sub></span>-<span class="">tuku</span></a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.3" label="ED Lu A, 3">
+<td class="lnum">
+<a name="a.Q000003.3">
+<span class="xlabel">3</span>
+<span class="lnum">3</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.3.1" title="namdi[an official]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004550.html')"><span class="">nam<sub>2</sub></span>-<span class="">di</span></a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.4" label="ED Lu A, 4">
+<td class="lnum">
+<a name="a.Q000003.4">
+<span class="xlabel">4</span>
+<span class="lnum">4</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.4.1" title="namumuš[an official]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004732.html')"><span class="">nam<sub>2</sub></span>-<span class="">umuš</span></a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.5" label="ED Lu A, 5">
+<td class="lnum">
+<a name="a.Q000003.5">
+<span class="xlabel">5</span>
+<span class="lnum">5</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.5.1" title="namiri[an official]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004628.html')"><span class="">nam<sub>2</sub></span>-<span class="">iri</span></a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.6" label="ED Lu A, 6" cid="">
+<td class="lnum">
+<a name="a.Q000003.6">
+<span class="xlabel">6</span>
+<span class="lnum">6</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.6.1" title="namšeš[an official]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004704.html')"><span class="">nam<sub>2</sub></span>-<span class="">šeš<sub>2</sub></span></a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.7" label="ED Lu A, 7" cid="Q000003.2">
+<td class="lnum">
+<a name="a.Q000003.7">
+<span class="xlabel">7</span>
+<span class="lnum">7</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.7.1" title="ukur[butcher]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x007029.html')"><span class="">ukur<sub>2</sub></span>(<span class="compound"><span class="sign">GAL</span>.<span class="sign">DUN</span></span>)</a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.8" label="ED Lu A, 8" cid="Q000003.3">
+<td class="lnum">
+<a name="a.Q000003.8">
+<span class="xlabel">8</span>
+<span class="lnum">8</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.8.1" title="namengar[an official]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004574.html')"><span class="">nam<sub>2</sub></span>-<span class="">engar</span></a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.9" label="ED Lu A, 9" cid="Q000003.4">
+<td class="lnum">
+<a name="a.Q000003.9">
+<span class="xlabel">9</span>
+<span class="lnum">9</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.9.1" title="šuš[a priest]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x006523.html')"><span class="">šušₓ</span>(<span class="compound"><span class="sign">ŠE</span>+<span class="sign">NAM<sub>2</sub></span></span>)</a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.10" label="ED Lu A, 10" cid="Q000003.5">
+<td class="lnum">
+<a name="a.Q000003.10">
+<span class="xlabel">10</span>
+<span class="lnum">10</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.10.1"><span class="sign">PA</span></span> <span class="w" id="Q000003.10.2"><span class="sign">NAM<sub>2</sub></span></span> <span class="w" id="Q000003.10.3"><span class="sign">SUD<sub>2</sub></span></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.11" label="ED Lu A, 11" cid="Q000003.6">
+<td class="lnum">
+<a name="a.Q000003.11">
+<span class="xlabel">11</span>
+<span class="lnum"> NaN 11</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.11.1" title="išib[incantation priest, exorcist]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x003142.html')"><span class="">išib</span></a></span> <span class="w" id="Q000003.11.2" title="eš[shrine]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001585.html')"><span class="">eš<sub>3</sub></span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.7">
+<td class="lnum"/>
+<td>
+<span class="sign">AB</span>
+<span class="sign">ME</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.12" label="ED Lu A, 12" cid="Q000003.8">
+<td class="lnum">
+<a name="a.Q000003.12">
+<span class="xlabel">12</span>
+<span class="lnum">12</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.12.1" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span> <span class="w" id="Q000003.12.2"><span class="compound"><span class="sign">BAD</span>×<span class="sign">DIŠ<sup>t</sup></span></span></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.13" label="ED Lu A, 13" cid="Q000003.9">
+<td class="lnum">
+<a name="a.Q000003.13">
+<span class="xlabel">13</span>
+<span class="lnum">13</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.13.1"><span class="">en</span>:<span class="sign">IB</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.14" label="ED Lu A, 14" cid="Q000003.10">
+<td class="lnum">
+<a name="a.Q000003.14">
+<span class="xlabel">14</span>
+<span class="lnum"> NaN 14</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.14.1" title="šita[a priest]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x006320.html')"><span class="">šita</span></a></span> <span class="w" id="Q000003.14.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.11">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">ŠITA</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.15" label="ED Lu A, 15" cid="">
+<td class="lnum">
+<a name="a.Q000003.15">
+<span class="xlabel">15</span>
+<span class="lnum">15</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.15.1" title="abgal[sage]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x000076.html')">
+<span class="">abgal</span>
+</a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.16" label="ED Lu A, 16" cid="Q000003.12">
+<td class="lnum">
+<a name="a.Q000003.16">
+<span class="xlabel">16</span>
+<span class="lnum">16</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.16.1" title="kingal[crown authority over land, labor recruiter]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x003458.html')">
+<span class="">kingal</span>
+</a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.17" label="ED Lu A, 17" cid="Q000003.13">
+<td class="lnum">
+<a name="a.Q000003.17">
+<span class="xlabel">17</span>
+<span class="lnum">17</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.17.1" title="tiru[courtier]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x006680.html')"><span class="">tiru</span>(<span class="compound"><span class="sign">GAL</span>.<span class="sign">TE</span></span>)</a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.18" label="ED Lu A, 18" cid="Q000003.14">
+<td class="lnum">
+<a name="a.Q000003.18">
+<span class="xlabel">18</span>
+<span class="lnum"> NaN 18</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.18.1" title="sukkal[secretary, civil servant]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005877.html')"><span class="">sukkal</span></a></span> <span class="w" id="Q000003.18.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">LUḪ</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.19" label="ED Lu A, 19" cid="Q000003.15">
+<td class="lnum">
+<a name="a.Q000003.19">
+<span class="xlabel">19</span>
+<span class="lnum">19</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.19.1"><span class="">gada</span>:<span class="">sukkal</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.20" label="ED Lu A, 20" cid="Q000003.16">
+<td class="lnum">
+<a name="a.Q000003.20">
+<span class="xlabel">20</span>
+<span class="lnum"> NaN 20</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.20.1" title="ga[milk]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001674.html')"><span class="">ga</span></a></span> <span class="w" id="Q000003.20.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.17">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">GA</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.21" label="ED Lu A, 21" cid="Q000003.18">
+<td class="lnum">
+<a name="a.Q000003.21">
+<span class="xlabel">21</span>
+<span class="lnum">21</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.21.1"><span class="">tug<sub>2</sub></span></span> <span class="w" id="Q000003.21.2" title="gara[cream]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001840.html')"><span class="">gara<sub>2</sub></span></a></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.22" label="ED Lu A, 22" cid="">
+<td class="lnum">
+<a name="a.Q000003.22">
+<span class="xlabel">22</span>
+<span class="lnum">22</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.22.1" title="santanak[gardener]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005606.html')"><span class="">santana</span>(<span class="compound"><span class="sign">GAL</span>.<span class="sign">NI</span></span>)</a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.23" label="ED Lu A, 23" cid="Q000003.19">
+<td class="lnum">
+<a name="a.Q000003.23">
+<span class="xlabel">23</span>
+<span class="lnum"> NaN 23</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.23.1" title="kisal[courtyard]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x003500.html')"><span class="">kisal</span></a></span> <span class="w" id="Q000003.23.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.20">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">KISAL</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.24" label="ED Lu A, 24" cid="">
+<td class="lnum">
+<a name="a.Q000003.24">
+<span class="xlabel">24</span>
+<span class="lnum"> NaN 24</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.24.1" title="sila[lamb]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005716.html')"><span class="">sila<sub>4</sub></span></a></span> <span class="w" id="Q000003.24.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.21">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="compound"><span class="sign">GA<sub>2</sub></span>×<span class="sign">PA</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.25" label="ED Lu A, 25" cid="Q000003.22">
+<td class="lnum">
+<a name="a.Q000003.25">
+<span class="xlabel">25</span>
+<span class="lnum"> NaN 25</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.25.1"><span class="compound"><span class="sign">PA</span>.<span class="sign">IB</span></span></span> <span class="w" id="Q000003.25.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.23">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="compound"><span class="sign">PA</span>.<span class="sign">IB</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.26" label="ED Lu A, 26" cid="">
+<td class="lnum">
+<a name="a.Q000003.26">
+<span class="xlabel">26</span>
+<span class="lnum">26</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.26.1"><span class="sign">BU</span>:<span class="compound"><span class="sign">PA</span>.<span class="sign">IB</span></span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.27" label="ED Lu A, 27" cid="Q000003.24">
+<td class="lnum">
+<a name="a.Q000003.27">
+<span class="xlabel">27</span>
+<span class="lnum"> NaN 27</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.27.1" title="nesaŋ[first-fruit offering]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004785.html')"><span class="">nisaŋ</span></a></span> <span class="w" id="Q000003.27.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">NISAG</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.28" label="ED Lu A, 28" cid="Q000003.25">
+<td class="lnum">
+<a name="a.Q000003.28">
+<span class="xlabel">28</span>
+<span class="lnum"> NaN 28</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.28.1" title="abšilam[cow]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x000094.html')"><span class="">šilamₓ</span>(<span class="compound"><span class="sign">NUN</span>.<span class="sign">LAGAR</span></span>)</a></span> <span class="w" id="Q000003.28.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="compound"><span class="sign">NUN</span>.<span class="sign">LAGAR</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.29" label="ED Lu A, 29" cid="Q000003.26">
+<td class="lnum">
+<a name="a.Q000003.29">
+<span class="xlabel">29</span>
+<span class="lnum"> NaN 29</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.29.1" title="umun[knowledge]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x007124.html')"><span class="">umun<sub>2</sub></span></a></span> <span class="w" id="Q000003.29.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.27">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">UMUM</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.30" label="ED Lu A, 30" cid="">
+<td class="lnum">
+<a name="a.Q000003.30">
+<span class="xlabel">30</span>
+<span class="lnum">30</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.30.1"><span class="">adkin</span></span> <span class="w" id="Q000003.30.2"><span class="sign">UMUM</span></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.31" label="ED Lu A, 31" cid="Q000003.28">
+<td class="lnum">
+<a name="a.Q000003.31">
+<span class="xlabel">31</span>
+<span class="lnum">31</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.31.1"><span class="sign">ŠID</span></span> <span class="w" id="Q000003.31.2"><span class="sign">UMUM</span></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.32" label="ED Lu A, 32" cid="">
+<td class="lnum">
+<a name="a.Q000003.32">
+<span class="xlabel">32</span>
+<span class="lnum">32</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.32.1"><span class="sign">AB</span></span> <span class="w" id="Q000003.32.2"><span class="sign">KU<sub>3</sub></span></span> <span class="w" id="Q000003.32.3"><span class="sign">UMUM</span></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.33" label="ED Lu A, 33" cid="Q000003.29">
+<td class="lnum">
+<a name="a.Q000003.33">
+<span class="xlabel">33</span>
+<span class="lnum">33</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.33.1"><span class="sign">GAL</span></span> <span class="w" id="Q000003.33.2"><span class="sign">KU<sub>3</sub></span></span> <span class="w" id="Q000003.33.3"><span class="sign">UMUM</span></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.34" label="ED Lu A, 34" cid="">
+<td class="lnum">
+<a name="a.Q000003.34">
+<span class="xlabel">34</span>
+<span class="lnum"> NaN 34</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.34.1"><span class="sign">AK</span></span> <span class="w" id="Q000003.34.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.30">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">AK</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.35" label="ED Lu A, 35" cid="Q000003.31">
+<td class="lnum">
+<a name="a.Q000003.35">
+<span class="xlabel">35</span>
+<span class="lnum"> NaN 35</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.35.1"><span class="sign">IM</span></span> <span class="w" id="Q000003.35.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.32">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">IM</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.36" label="ED Lu A, 36" cid="Q000003.33">
+<td class="lnum">
+<a name="a.Q000003.36">
+<span class="xlabel">36</span>
+<span class="lnum"> NaN 36</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.36.1"><span class="sign">IM</span></span> <span class="w" id="Q000003.36.2" title="tur[(to be) small]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x006783.html')"><span class="">tur</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.34">
+<td class="lnum"/>
+<td>
+<span class="sign">TUR</span>
+<span class="sign">IM</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.37" label="ED Lu A, 37" cid="">
+<td class="lnum">
+<a name="a.Q000003.37">
+<span class="xlabel">37</span>
+<span class="lnum"> NaN 37</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.37.1"><span class="sign">ŠA</span></span> <span class="w" id="Q000003.37.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.35">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">ŠA</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.38" label="ED Lu A, 38" cid="">
+<td class="lnum">
+<a name="a.Q000003.38">
+<span class="xlabel">38</span>
+<span class="lnum"> NaN 38</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.38.1" title="šeš[to anoint]V/t"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x006214.html')"><span class="">šeš<sub>2</sub></span></a></span> <span class="w" id="Q000003.38.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.36">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">ŠEŠ<sub>2</sub></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.39" label="ED Lu A, 39" cid="">
+<td class="lnum">
+<a name="a.Q000003.39">
+<span class="xlabel">39</span>
+<span class="lnum"> NaN 39</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.39.1" title="ŋišgal[station]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x002564.html')"><span class="">ŋišgal</span></a></span> <span class="w" id="Q000003.39.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.37">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="compound"><span class="sign">URU</span>×<span class="sign">MIN</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.40" label="ED Lu A, 40" cid="">
+<td class="lnum">
+<a name="a.Q000003.40">
+<span class="xlabel">40</span>
+<span class="lnum"> NaN 40</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.40.1"><span class="compound"><span class="sign">GA<sub>2</sub></span>×<span class="sign">DI</span></span>-<span class="sign">ME</span></span> <span class="w" id="Q000003.40.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.38">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="compound"><span class="sign">GA<sub>2</sub></span>×<span class="sign">DI</span></span>
+<span class="sign">ME</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.41" label="ED Lu A, 41" cid="">
+<td class="lnum">
+<a name="a.Q000003.41">
+<span class="xlabel">41</span>
+<span class="lnum">41</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.41.1" title="saŋŋa[an official, the chief administrator of a temple household]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005500.html')"><span class="">saŋŋa</span></a></span> <span class="w" id="Q000003.41.2"><span class="compound"><span class="sign">GA<sub>2</sub></span>×<span class="sign">GAR</span></span>-<span class="sign">ME</span></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.42" label="ED Lu A, 42" cid="Q000003.39">
+<td class="lnum">
+<a name="a.Q000003.42">
+<span class="xlabel">42</span>
+<span class="lnum">42</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.42.1" title="saŋŋa[an official, the chief administrator of a temple household]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005500.html')"><span class="">saŋŋa</span></a></span> <span class="w" id="Q000003.42.2"><span class="compound"><span class="sign">GA<sub>2</sub></span>×<span class="sign">SAL</span></span>-<span class="sign">ME</span></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.43" label="ED Lu A, 43" cid="">
+<td class="lnum">
+<a name="a.Q000003.43">
+<span class="xlabel">43</span>
+<span class="lnum"> NaN 43</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.43.1"><span class="compound"><span class="sign">GA<sub>2</sub></span>×<span class="sign">UD</span></span></span> <span class="w" id="Q000003.43.2"><span class="sign">ME</span></span> <span class="w" id="Q000003.43.3" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.40">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="compound"><span class="sign">GA<sub>2</sub></span>×<span class="sign">UD</span></span>
+<span class="sign">ME</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.44" label="ED Lu A, 44" cid="">
+<td class="lnum">
+<a name="a.Q000003.44">
+<span class="xlabel">44</span>
+<span class="lnum"> NaN 44</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.44.1" title="kuš,zu.am[a high official]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x003700.html')"><span class="sign">IŠ</span></a></span> <span class="w" id="Q000003.44.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.41">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">IŠ</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.45" label="ED Lu A, 45" cid="Q000003.42">
+<td class="lnum">
+<a name="a.Q000003.45">
+<span class="xlabel">45</span>
+<span class="lnum"> NaN 45</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.45.1"><span class="sign">TAG</span></span> <span class="w" id="Q000003.45.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.43">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">TAG</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.46" label="ED Lu A, 46" cid="">
+<td class="lnum">
+<a name="a.Q000003.46">
+<span class="xlabel">46</span>
+<span class="lnum"> NaN 46</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.46.1" title="umbisaŋ[scribe]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x007108.html')"><span class="">umbisaŋ</span></a></span> <span class="w" id="Q000003.46.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.44">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">ŠID</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.47" label="ED Lu A, 47" cid="">
+<td class="lnum">
+<a name="a.Q000003.47">
+<span class="xlabel">47</span>
+<span class="lnum"> NaN 47</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.47.1" title="umbisaŋ[scribe]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x007108.html')"><span class="">umbisaŋ</span></a></span> <span class="w" id="Q000003.47.2" title="mes[hero]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004270.html')"><span class="">mes</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.45">
+<td class="lnum"/>
+<td>
+<span class="sign">MES</span>
+<span class="sign">ŠID</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.48" label="ED Lu A, 48" cid="">
+<td class="lnum">
+<a name="a.Q000003.48">
+<span class="xlabel">48</span>
+<span class="lnum">48</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.48.1" title="saŋ.DUN₃[land recorder]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005547.html')"><span class="">saŋ</span>-<span class="">dun<sub>3</sub></span></a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.49" label="ED Lu A, 49" cid="Q000003.46">
+<td class="lnum">
+<a name="a.Q000003.49">
+<span class="xlabel">49</span>
+<span class="lnum">49</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.49.1"><span class="sign">UB</span>:<span class="sign">SAG</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.50" label="ED Lu A, 50" cid="">
+<td class="lnum">
+<a name="a.Q000003.50">
+<span class="xlabel">50</span>
+<span class="lnum">50</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.50.1">
+<span class="sign">DUB<sub>2</sub></span>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.51" label="ED Lu A, 51" cid="Q000003.47">
+<td class="lnum">
+<a name="a.Q000003.51">
+<span class="xlabel">51</span>
+<span class="lnum">51</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.51.1"><span class="sign">BAR</span></span> <span class="w" id="Q000003.51.2"><span class="sign">LAGAB</span></span> <span class="w" id="Q000003.51.3"><span class="sign">ME</span></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.52" label="ED Lu A, 52" cid="">
+<td class="lnum">
+<a name="a.Q000003.52">
+<span class="xlabel">52</span>
+<span class="lnum"> NaN 52</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.52.1"><span class="">abgal</span></span> <span class="w" id="Q000003.52.2" title="abgal[sage]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x000076.html')"><span class="compound"><span class="sign">KA</span>×<span class="sign">GAN<sub>2</sub><sup>t</sup></span></span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.48">
+<td class="lnum"/>
+<td>
+<span class="compound"><span class="sign">KA</span>×<span class="sign">GAN<sub>2</sub><sup>t</sup></span></span>
+<span class="compound"><span class="sign">NUN</span>.<span class="sign">ME</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.53" label="ED Lu A, 53" cid="Q000003.49">
+<td class="lnum">
+<a name="a.Q000003.53">
+<span class="xlabel">53</span>
+<span class="lnum">53</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.53.1"><span class="sign">GAN<sub>2</sub><sup>t</sup></span>:<span class="sign">ME</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.54" label="ED Lu A, 54" cid="Q000003.50">
+<td class="lnum">
+<a name="a.Q000003.54">
+<span class="xlabel">54</span>
+<span class="lnum">54</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.54.1" title="abgal[sage]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x000076.html')"><span class="">abgal</span></a></span> <span class="w" id="Q000003.54.2" title="ŋalga,bi[instruction, advice]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x002347.html')"><span class="compound"><span class="sign">GA<sub>2</sub></span>×<span class="sign">GAR</span></span></a></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.55" label="ED Lu A, 55" cid="Q000003.51">
+<td class="lnum">
+<a name="a.Q000003.55">
+<span class="xlabel">55</span>
+<span class="lnum">55</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.55.1" title="arkab[a bird or bat]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x000489.html')"><span class="">arkab</span>(<span class="compound"><span class="sign">ARKAB<sub>2</sub></span>.<span class="sign">IB</span></span>)</a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.56" label="ED Lu A, 56" cid="Q000003.52">
+<td class="lnum">
+<a name="a.Q000003.56">
+<span class="xlabel">56</span>
+<span class="lnum">56</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.56.1"><span class="">arkab<sub>2</sub></span>-<span class="sign">GAR</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.57" label="ED Lu A, 57" cid="">
+<td class="lnum">
+<a name="a.Q000003.57">
+<span class="xlabel">57</span>
+<span class="lnum">57</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.57.1"><span class="">muš<sub>3</sub></span>:<span class="sign">ME</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.58" label="ED Lu A, 58" cid="Q000003.53">
+<td class="lnum">
+<a name="a.Q000003.58">
+<span class="xlabel">58</span>
+<span class="lnum"> NaN 58</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.58.1"><span class="sign">SI</span>-<span class="sign">KAK</span>-<span class="sign">BI</span></span> <span class="w" id="Q000003.58.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.54">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">SI</span>
+<span class="sign">KAK</span>
+<span class="sign">BI</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.59" label="ED Lu A, 59" cid="Q000003.55">
+<td class="lnum">
+<a name="a.Q000003.59">
+<span class="xlabel">59</span>
+<span class="lnum"> NaN 59</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.59.1" title="saŋa[a priest]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005474.html')"><span class="">sanga<sub>2</sub></span>(<span class="sign">LAK175</span>)</a></span> <span class="w" id="Q000003.59.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.56">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">SANGA<sub>2</sub></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.60" label="ED Lu A, 60" cid="Q000003.57">
+<td class="lnum">
+<a name="a.Q000003.60">
+<span class="xlabel">60</span>
+<span class="lnum">60</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.60.1" title="engiz[temple cook]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001480.html')"><span class="">engiz</span>(<span class="compound"><span class="sign">EN</span>.<span class="sign">ME</span>.<span class="sign">GI<sub>4</sub></span></span>)</a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.61" label="ED Lu A, 61" cid="Q000003.58">
+<td class="lnum">
+<a name="a.Q000003.61">
+<span class="xlabel">61</span>
+<span class="lnum">61</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.61.1" title="endib[cook]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001461.html')"><span class="">endib</span>(<span class="compound"><span class="sign">EN</span>.<span class="sign">ME</span>.<span class="sign">MU</span></span>)</a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.62" label="ED Lu A, 62" cid="">
+<td class="lnum">
+<a name="a.Q000003.62">
+<span class="xlabel">62</span>
+<span class="lnum">62</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.62.1" title="niŋirgal[chief herald]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004937.html')"><span class="">gal</span>-<span class="">niŋir</span></a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.63" label="ED Lu A, 63" cid="Q000003.59">
+<td class="lnum">
+<a name="a.Q000003.63">
+<span class="xlabel">63</span>
+<span class="lnum"> NaN 63</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.63.1" title="niŋir[herald]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004936.html')"><span class="">niŋir</span></a></span> <span class="w" id="Q000003.63.2"><span class="sign">IGI<sup>g</sup></span></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="">
+<td class="lnum"/>
+<td>
+<span class="sign">IGI<sup>g</sup></span>
+<span class="sign">DUN<sub>3</sub><sup>g</sup><sup>g</sup></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.64" label="ED Lu A, 64" cid="Q000003.60">
+<td class="lnum">
+<a name="a.Q000003.64">
+<span class="xlabel">64</span>
+<span class="lnum">64</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.64.1" title="enkum[temple treasurer]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001489.html')"><span class="">enkum</span>(<span class="compound"><span class="sign">EN</span>.<span class="sign">PAP</span>.<span class="sign">IGI<sup>g</sup></span>.<span class="sign">NUN</span>.<span class="sign">ME</span>.<span class="sign">EZEN</span>×<span class="sign">KASKAL</span></span>)</a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.65" label="ED Lu A, 65" cid="Q000003.61">
+<td class="lnum">
+<a name="a.Q000003.65">
+<span class="xlabel">65</span>
+<span class="lnum">65</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.65.1" title="nenkum[a temple official]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004783.html')"><span class="">ninkum</span>(<span class="compound">(<span class="sign">SAL</span>.<span class="sign">TUG<sub>2</sub></span>).<span class="sign">PAP</span>.<span class="sign">IGI<sup>g</sup></span>.<span class="sign">ME</span>.<span class="sign">EZEN</span>×<span class="sign">KASKAL</span></span>)</a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.66" label="ED Lu A, 66" cid="Q000003.62">
+<td class="lnum">
+<a name="a.Q000003.66">
+<span class="xlabel">66</span>
+<span class="lnum">66</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.66.1" title="saŋŋa[an official, the chief administrator of a temple household]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005500.html')"><span class="">saŋŋa</span></a></span> <span class="w" id="Q000003.66.2" title="suhur[tuft, plume]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005866.html')"><span class="">suḫur</span></a></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.67" label="ED Lu A, 67" cid="Q000003.63">
+<td class="lnum">
+<a name="a.Q000003.67">
+<span class="xlabel">67</span>
+<span class="lnum"> NaN 67</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.67.1" title="suhur[tuft, plume]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005866.html')"><span class="">suḫur</span></a></span> <span class="w" id="Q000003.67.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">SUḪUR</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.68" label="ED Lu A, 68" cid="Q000003.64">
+<td class="lnum">
+<a name="a.Q000003.68">
+<span class="xlabel">68</span>
+<span class="lnum">68</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.68.1"><span class="sign">MAR</span>:<span class="sign">APIN</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.69" label="ED Lu A, 69" cid="Q000003.65">
+<td class="lnum">
+<a name="a.Q000003.69">
+<span class="xlabel">69</span>
+<span class="lnum">69</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.69.1"><span class="sign">BU</span>:<span class="">nun</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.70" label="ED Lu A, 70" cid="Q000003.66">
+<td class="lnum">
+<a name="a.Q000003.70">
+<span class="xlabel">70</span>
+<span class="lnum">70</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.70.1" title="saŋŋa[an official, the chief administrator of a temple household]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005500.html')"><span class="">saŋŋa</span></a></span> <span class="w" id="Q000003.70.2"><span class="sign">BU</span>:<span class="">nun</span></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.71" label="ED Lu A, 71" cid="Q000003.67">
+<td class="lnum">
+<a name="a.Q000003.71">
+<span class="xlabel">71</span>
+<span class="lnum">71</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.71.1" title="saŋŋa[an official, the chief administrator of a temple household]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005500.html')"><span class="">saŋŋa</span></a></span> <span class="w" id="Q000003.71.2"><span class="sign">NUN</span></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.72" label="ED Lu A, 72" cid="">
+<td class="lnum">
+<a name="a.Q000003.72">
+<span class="xlabel">72</span>
+<span class="lnum">72</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.72.1"><span class="sign">GAL</span>:<span class="sign">TUK</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.73" label="ED Lu A, 73" cid="Q000003.68">
+<td class="lnum">
+<a name="a.Q000003.73">
+<span class="xlabel">73</span>
+<span class="lnum"> NaN 73</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.73.1" title="ezem[festival]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001637.html')"><span class="sign">EZEN</span></a></span> <span class="w" id="Q000003.73.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.69">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">EZEN</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.74" label="ED Lu A, 74" cid="Q000003.70">
+<td class="lnum">
+<a name="a.Q000003.74">
+<span class="xlabel">74</span>
+<span class="lnum">74</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.74.1"><span class="sign">MUŠ<sub>3</sub></span>:<span class="sign">EZEN</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.75" label="ED Lu A, 75" cid="Q000003.71">
+<td class="lnum">
+<a name="a.Q000003.75">
+<span class="xlabel">75</span>
+<span class="lnum">75</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.75.1"><span class="sign">DU</span>:<span class="sign">EZEN</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.76" label="ED Lu A, 76" cid="Q000003.72">
+<td class="lnum">
+<a name="a.Q000003.76">
+<span class="xlabel">76</span>
+<span class="lnum">76</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.76.1">
+<span class="">isimud</span>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.77" label="ED Lu A, 77" cid="Q000003.73">
+<td class="lnum">
+<a name="a.Q000003.77">
+<span class="xlabel">77</span>
+<span class="lnum"> NaN 77</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.77.1" title="nar[musician]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004760.html')"><span class="">nar</span></a></span> <span class="w" id="Q000003.77.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">LUL</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.78" label="ED Lu A, 78" cid="Q000003.74">
+<td class="lnum">
+<a name="a.Q000003.78">
+<span class="xlabel">78</span>
+<span class="lnum"> NaN 78</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.78.1" title="balaŋ[a large drum or harp]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x000691.html')"><span class="">balaŋ</span></a></span> <span class="w" id="Q000003.78.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.75">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">BALAG</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.79" label="ED Lu A, 79" cid="Q000003.76">
+<td class="lnum">
+<a name="a.Q000003.79">
+<span class="xlabel">79</span>
+<span class="lnum"> NaN 79</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.79.1" title="šud[prayer, dedication]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x006427.html')"><span class="">šud<sub>3</sub></span></a></span> <span class="w" id="Q000003.79.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.77">
+<td class="lnum"/>
+<td>
+<span class="sign">KAK</span>
+<span class="compound"><span class="sign">KA</span>×<span class="sign">ŠU</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.80" label="ED Lu A, 80" cid="">
+<td class="lnum">
+<a name="a.Q000003.80">
+<span class="xlabel">80</span>
+<span class="lnum"> NaN 80</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.80.1" title="enkud[tax-collector]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001487.html')"><span class="">enkudₓ</span>(<span class="sign">ZAG</span>)</a></span> <span class="w" id="Q000003.80.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.78">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">ZAG</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.81" label="ED Lu A, 81" cid="">
+<td class="lnum">
+<a name="a.Q000003.81">
+<span class="xlabel">81</span>
+<span class="lnum"> NaN 81</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.81.1" title="enkud[tax-collector]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001487.html')"><span class="">enkudₓ</span>(<span class="sign">ZAG</span>)</a></span> <span class="w" id="Q000003.81.2" title="nesaŋ[first-fruit offering]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004785.html')"><span class="">nisaŋ</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.79">
+<td class="lnum"/>
+<td>
+<span class="sign">ZAG</span>
+<span class="sign">NISAG</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.82" label="ED Lu A, 82" cid="">
+<td class="lnum">
+<a name="a.Q000003.82">
+<span class="xlabel">82</span>
+<span class="lnum"> NaN 82</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.82.1" title="enkud[tax-collector]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001487.html')"><span class="">enkudₓ</span>(<span class="sign">ZAG</span>)</a></span> <span class="w" id="Q000003.82.2"><span class="sign">PA</span>:<span class="sign">DAG</span></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.80">
+<td class="lnum"/>
+<td>
+<span class="sign">PA</span>
+<span class="sign">DAG</span>
+<span class="sign">ZAG</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.83" label="ED Lu A, 83" cid="">
+<td class="lnum">
+<a name="a.Q000003.83">
+<span class="xlabel">83</span>
+<span class="lnum"> NaN 83</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.83.1" title="enkud[tax-collector]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001487.html')"><span class="">enkudₓ</span>(<span class="sign">ZAG</span>)</a></span> <span class="w" id="Q000003.83.2"><span class="">dilmun</span></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.81">
+<td class="lnum"/>
+<td>
+<span class="compound"><span class="sign">NI</span>.<span class="sign">TUK</span></span>
+<span class="sign">ZAG</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.84" label="ED Lu A, 84" cid="">
+<td class="lnum">
+<a name="a.Q000003.84">
+<span class="xlabel">84</span>
+<span class="lnum"> NaN 84</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.84.1" title="enkud[tax-collector]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001487.html')"><span class="">enkudₓ</span>(<span class="sign">ZAG</span>)</a></span> <span class="w" id="Q000003.84.2"><sup>d<span class="sux"/></sup><span class="sign">SUD</span>-<span class="sign">PA</span>-<span class="sign">EL</span></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.82">
+<td class="lnum"/>
+<td>
+<span class="sign">SUD</span>
+<span class="sign">AN</span>
+<span class="sign">PA</span>
+<span class="sign">EL</span>
+<span class="sign">ZAG</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.85" label="ED Lu A, 85" cid="">
+<td class="lnum">
+<a name="a.Q000003.85">
+<span class="xlabel">85</span>
+<span class="lnum"> NaN 85</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.85.1" title="enkud[tax-collector]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001487.html')"><span class="">enkudₓ</span>(<span class="sign">ZAG</span>)</a></span> <span class="w" id="Q000003.85.2" title="sug[a ripe stalk of grain or part of a stalk of grain]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005838.html')"><span class="">sugₓ</span>(<span class="compound"><span class="sign">SUD</span>.<span class="sign">PA</span>.<span class="sign">EL</span></span>)</a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.83">
+<td class="lnum"/>
+<td>
+<span class="sign">SUD</span>
+<span class="sign">PA</span>
+<span class="sign">EL</span>
+<span class="sign">ZAG</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.86" label="ED Lu A, 86" cid="">
+<td class="lnum">
+<a name="a.Q000003.86">
+<span class="xlabel">86</span>
+<span class="lnum"> NaN 86</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.86.1" title="enkud[tax-collector]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001487.html')"><span class="">enkudₓ</span>(<span class="sign">ZAG</span>)</a></span> <span class="w" id="Q000003.86.2"><span class="">idigna</span></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.84">
+<td class="lnum"/>
+<td>
+<span class="compound"><span class="sign">MAŠ</span>.<span class="sign">GU<sub>2</sub></span>.<span class="sign">GAR<sub>3</sub></span></span>
+<span class="sign">ZAG</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.87" label="ED Lu A, 87" cid="">
+<td class="lnum">
+<a name="a.Q000003.87">
+<span class="xlabel">87</span>
+<span class="lnum"> NaN 87</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.87.1"><span class="">labₓ</span>(<span class="sign">LAGAR<sup>g</sup></span>)</span> <span class="w" id="Q000003.87.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.85">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">LAGAR<sup>g</sup></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.88" label="ED Lu A, 88" cid="">
+<td class="lnum">
+<a name="a.Q000003.88">
+<span class="xlabel">88</span>
+<span class="lnum"> NaN 88</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.88.1"><span class="">labₓ</span>(<span class="sign">LAGAR<sup>g</sup></span>)</span> <span class="w" id="Q000003.88.2" title="kur[mountain]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x003667.html')"><span class="">kur</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.86">
+<td class="lnum"/>
+<td>
+<span class="sign">KUR</span>
+<span class="sign">LAGAR<sup>g</sup></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.89" label="ED Lu A, 89" cid="">
+<td class="lnum">
+<a name="a.Q000003.89">
+<span class="xlabel">89</span>
+<span class="lnum"> NaN 89</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.89.1"><span class="">labₓ</span>(<span class="sign">LAGAR<sup>g</sup></span>)</span> <span class="w" id="Q000003.89.2"><span class="">par<sub>4</sub></span></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.87">
+<td class="lnum"/>
+<td>
+<span class="sign">KISAL</span>
+<span class="sign">LAGAR<sup>g</sup></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.90" label="ED Lu A, 90" cid="">
+<td class="lnum">
+<a name="a.Q000003.90">
+<span class="xlabel">90</span>
+<span class="lnum"> NaN 90</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.90.1"><span class="">labₓ</span>(<span class="sign">LAGAR<sup>g</sup></span>)</span> <span class="w" id="Q000003.90.2"><span class="sign">BA</span>:<span class="sign">KU</span></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.88">
+<td class="lnum"/>
+<td>
+<span class="sign">BA</span>
+<span class="sign">KU</span>
+<span class="sign">LAGAR<sup>g</sup></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.91" label="ED Lu A, 91" cid="">
+<td class="lnum">
+<a name="a.Q000003.91">
+<span class="xlabel">91</span>
+<span class="lnum"> NaN 91</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.91.1"><span class="">labₓ</span>(<span class="sign">LAGAR<sup>g</sup></span>)</span> <span class="w" id="Q000003.91.2"><span class="sign">TAR</span></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.89">
+<td class="lnum"/>
+<td>
+<span class="sign">TAR</span>
+<span class="sign">LAGAR<sup>g</sup></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.92" label="ED Lu A, 92" cid="">
+<td class="lnum">
+<a name="a.Q000003.92">
+<span class="xlabel">92</span>
+<span class="lnum"> NaN 92</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.92.1" title="unud[cattle herder]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x007145.html')"><span class="">unud</span>(<span class="compound"><span class="sign">AB<sub>2</sub></span>.<span class="sign">KU</span></span>)</a></span> <span class="w" id="Q000003.92.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.90">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="compound"><span class="sign">AB<sub>2</sub></span>.<span class="sign">KU</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.93" label="ED Lu A, 93" cid="">
+<td class="lnum">
+<a name="a.Q000003.93">
+<span class="xlabel">93</span>
+<span class="lnum"> NaN 93</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.93.1" title="unud[cattle herder]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x007145.html')"><span class="">unud</span></a></span> <span class="w" id="Q000003.93.2"><span class="sign">NUN</span>:<span class="sign">EN</span></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.91">
+<td class="lnum"/>
+<td>
+<span class="sign">NUN</span>
+<span class="sign">EN</span>
+<span class="compound"><span class="sign">AB<sub>2</sub></span>.<span class="sign">KU</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.94" label="ED Lu A, 94" cid="">
+<td class="lnum">
+<a name="a.Q000003.94">
+<span class="xlabel">94</span>
+<span class="lnum"> NaN 94</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.94.1" title="unud[cattle herder]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x007145.html')"><span class="">unud</span></a></span> <span class="w" id="Q000003.94.2"><span class="sign">TAR</span></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.92">
+<td class="lnum"/>
+<td>
+<span class="sign">TAR</span>
+<span class="compound"><span class="sign">AB<sub>2</sub></span>.<span class="sign">KU</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.95" label="ED Lu A, 95" cid="">
+<td class="lnum">
+<a name="a.Q000003.95">
+<span class="xlabel">95</span>
+<span class="lnum"> NaN 95</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.95.1"><span class="sign">PA</span>:<span class="compound"><span class="sign">GU<sub>2</sub></span>×<span class="sign">NUN</span></span></span> <span class="w" id="Q000003.95.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.93">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">PA</span>
+<span class="compound"><span class="sign">GU<sub>2</sub></span>×<span class="sign">NUN</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.96" label="ED Lu A, 96" cid="">
+<td class="lnum">
+<a name="a.Q000003.96">
+<span class="xlabel">96</span>
+<span class="lnum"> NaN 96</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.96.1" title="kurušda[animal fattener]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x003695.html')"><span class="">kurušda</span></a></span> <span class="w" id="Q000003.96.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.94">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">KU<sub>7</sub></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.97" label="ED Lu A, 97" cid="">
+<td class="lnum">
+<a name="a.Q000003.97">
+<span class="xlabel">97</span>
+<span class="lnum">97</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.97.1" title="saŋŋa[an official, the chief administrator of a temple household]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005500.html')"><span class="sign">ŠID</span></a></span> <span class="w" id="Q000003.97.2" title="kurušda[animal fattener]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x003695.html')"><span class="">kurušda</span></a></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.98" label="ED Lu A, 98" cid="Q000003.95">
+<td class="lnum">
+<a name="a.Q000003.98">
+<span class="xlabel">98</span>
+<span class="lnum">98</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.98.1" title="ušumgal[great dragon, snake]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x007334.html')">
+<span class="">ušumgal</span>
+</a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.99" label="ED Lu A, 99" cid="">
+<td class="lnum">
+<a name="a.Q000003.99">
+<span class="xlabel">99</span>
+<span class="lnum">99</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.99.1" title="saŋŋa[an official, the chief administrator of a temple household]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005500.html')"><span class="">saŋŋa</span></a></span> <span class="w" id="Q000003.99.2" title="abudu[livestock]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x000096.html')"><span class="">ab<sub>2</sub></span>-<span class="">udu</span></a></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.100" label="ED Lu A, 100" cid="Q000003.96">
+<td class="lnum">
+<a name="a.Q000003.100">
+<span class="xlabel">100</span>
+<span class="lnum">100</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.100.1" title="lagar[a priest]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x003755.html')"><span class="">lagar</span></a></span> <span class="w" id="Q000003.100.2" title="abudu[livestock]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x000096.html')"><span class="">ab<sub>2</sub></span>-<span class="">udu</span></a></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.101" label="ED Lu A, 101" cid="">
+<td class="lnum">
+<a name="a.Q000003.101">
+<span class="xlabel">101</span>
+<span class="lnum"> NaN 101</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.101.1"><span class="sign">PA</span>:<span class="sign">LAGAR<sup>g</sup></span></span> <span class="w" id="Q000003.101.2" title="abudu[livestock]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x000096.html')"><span class="">ab<sub>2</sub></span>-<span class="">udu</span></a></span> <span class="w" id="Q000003.101.3" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.97">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">PA</span>
+<span class="sign">LAGAR<sup>g</sup></span>
+<span class="sign">AB<sub>2</sub></span>
+<span class="sign">LU</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.102" label="ED Lu A, 102" cid="Q000003.98">
+<td class="lnum">
+<a name="a.Q000003.102">
+<span class="xlabel">102</span>
+<span class="lnum"> NaN 102</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.102.1" title="nagar[carpenter]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004496.html')"><span class="">nagar</span></a></span> <span class="w" id="Q000003.102.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.99">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">NAGAR</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.103" label="ED Lu A, 103" cid="Q000003.100">
+<td class="lnum">
+<a name="a.Q000003.103">
+<span class="xlabel">103</span>
+<span class="lnum"> NaN 103</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.103.1"><span class="sign">DUN<sub>3</sub></span></span> <span class="w" id="Q000003.103.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.101">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">DUN<sub>3</sub></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.104" label="ED Lu A, 104" cid="">
+<td class="lnum">
+<a name="a.Q000003.104">
+<span class="xlabel">104</span>
+<span class="lnum"> NaN 104</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.104.1" title="ašgab[leatherworker]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x000543.html')"><span class="">ašgab</span></a></span> <span class="w" id="Q000003.104.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.102">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">AŠGAB</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.105" label="ED Lu A, 105" cid="">
+<td class="lnum">
+<a name="a.Q000003.105">
+<span class="xlabel">105</span>
+<span class="lnum"> NaN 105</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.105.1" title="zadim[stone-cutter]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x007438.html')"><span class="">zadim</span></a></span> <span class="w" id="Q000003.105.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.103">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">MUG<sup>g</sup></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.106" label="ED Lu A, 106" cid="">
+<td class="lnum">
+<a name="a.Q000003.106">
+<span class="xlabel">106</span>
+<span class="lnum"> NaN 106</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.106.1" title="simug[smith, metalworker]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005756.html')"><span class="">simug</span></a></span> <span class="w" id="Q000003.106.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.104">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">UMUM</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.107" label="ED Lu A, 107" cid="">
+<td class="lnum">
+<a name="a.Q000003.107">
+<span class="xlabel">107</span>
+<span class="lnum"> NaN 107</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.107.1"><span class="sign">PA</span>:<span class="">dim</span></span> <span class="w" id="Q000003.107.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.105">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">PA</span>
+<span class="sign">DIM</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.108" label="ED Lu A, 108" cid="">
+<td class="lnum">
+<a name="a.Q000003.108">
+<span class="xlabel">108</span>
+<span class="lnum">108</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.108.1" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span> <span class="w" id="Q000003.108.2" title="e[house]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001300.html')"><span class="">e<sub>2</sub></span></a></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.109" label="ED Lu A, 109" cid="Q000003.106">
+<td class="lnum">
+<a name="a.Q000003.109">
+<span class="xlabel">109</span>
+<span class="lnum">109</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.109.1" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span> <span class="w" id="Q000003.109.2" title="kiri[(fruit) plantation, orchard]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x003478.html')"><span class="">kiri<sub>6</sub></span></a></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.110" label="ED Lu A, 110" cid="">
+<td class="lnum">
+<a name="a.Q000003.110">
+<span class="xlabel">110</span>
+<span class="lnum"> NaN 110</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.110.1"><span class="sign">UŠ</span></span> <span class="w" id="Q000003.110.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.107">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">UŠ</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.111" label="ED Lu A, 111" cid="">
+<td class="lnum">
+<a name="a.Q000003.111">
+<span class="xlabel">111</span>
+<span class="lnum"> NaN 111</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.111.1" title="ŋuruš[young adult male; able-bodied male worker; semi-free male worker]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x002568.html')"><span class="">ŋuruš</span></a></span> <span class="w" id="Q000003.111.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.108">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">GURUŠ</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.112" label="ED Lu A, 112" cid="Q000003.109">
+<td class="lnum">
+<a name="a.Q000003.112">
+<span class="xlabel">112</span>
+<span class="lnum">112</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.112.1"><span class="sign">GAL</span>:<span class="">muš</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.113" label="ED Lu A, 113" cid="Q000003.110">
+<td class="lnum">
+<a name="a.Q000003.113">
+<span class="xlabel">113</span>
+<span class="lnum"> NaN 113</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.113.1" title="munu[a profession]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x004384.html')"><span class="">munu<sub>4</sub></span></a></span> <span class="w" id="Q000003.113.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="compound"><span class="sign">PAP</span>.<span class="sign">PAP</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.114" label="ED Lu A, 114" cid="Q000003.111">
+<td class="lnum">
+<a name="a.Q000003.114">
+<span class="xlabel">114</span>
+<span class="lnum"> NaN 114</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.114.1" title="saŋŋa[an official, the chief administrator of a temple household]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x005500.html')"><span class="sign">ŠID</span></a></span> <span class="w" id="Q000003.114.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">ŠID</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.115" label="ED Lu A, 115" cid="Q000003.112">
+<td class="lnum">
+<a name="a.Q000003.115">
+<span class="xlabel">115</span>
+<span class="lnum"> NaN 115</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.115.1"><span class="">sandaₓ</span>(<span class="sign">ŠID</span>)</span> <span class="w" id="Q000003.115.2" title="gana[field]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001805.html')"><span class="">gana<sub>2</sub></span></a></span> <span class="w" id="Q000003.115.3" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.113">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">GAN<sub>2</sub></span>
+<span class="sign">ŠID</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.116" label="ED Lu A, 116" cid="">
+<td class="lnum">
+<a name="a.Q000003.116">
+<span class="xlabel">116</span>
+<span class="lnum"> NaN 116</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.116.1" title="hursaŋ[mountain, foothills]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x002797.html')"><span class="">ḫursaŋₓ</span>(<span class="compound"><span class="sign">PA</span>.<span class="sign">DUN<sub>3</sub></span></span>)</a></span> <span class="w" id="Q000003.116.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.114">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">PA</span>
+<span class="sign">DUN<sub>3</sub></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.117" label="ED Lu A, 117" cid="">
+<td class="lnum">
+<a name="a.Q000003.117">
+<span class="xlabel">117</span>
+<span class="lnum"> NaN 117</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.117.1"><span class="">tidimₓ</span>(<span class="sign">TI</span>)</span> <span class="w" id="Q000003.117.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.115">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">TI</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.118" label="ED Lu A, 118" cid="">
+<td class="lnum">
+<a name="a.Q000003.118">
+<span class="xlabel">118</span>
+<span class="lnum"> NaN 118</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.118.1" title="erida[courtyard sweeper]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001541.html')"><span class="">tidimₓ</span>(<span class="compound"><span class="sign">PA</span>.<span class="sign">ŠA<sub>6</sub></span></span>)</a></span> <span class="w" id="Q000003.118.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.116">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">PA</span>
+<span class="sign">ŠA<sub>6</sub></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.119" label="ED Lu A, 119" cid="">
+<td class="lnum">
+<a name="a.Q000003.119">
+<span class="xlabel">119</span>
+<span class="lnum"> NaN 119</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.119.1" title="luhša[a temple functionary]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x003932.html')"><span class="">luḫšu</span></a></span> <span class="w" id="Q000003.119.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">nirₓ</span>(<span class="sign">GAL</span>)</a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.117">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="compound"><span class="sign">ḪI</span>×<span class="sign">NUN</span>.<span class="sign">ME</span>.<span class="sign">U</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.120" label="ED Lu A, 120" cid="">
+<td class="lnum">
+<a name="a.Q000003.120">
+<span class="xlabel">120</span>
+<span class="lnum"> NaN 120</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.120.1" title="hubi[acrobat]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x002751.html')"><span class="sign">ḪUB<sub>2</sub></span></a></span> <span class="w" id="Q000003.120.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.118">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">ḪUB<sub>2</sub></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.121" label="ED Lu A, 121" cid="">
+<td class="lnum">
+<a name="a.Q000003.121">
+<span class="xlabel">121</span>
+<span class="lnum"> NaN 121</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.121.1"><span class="compound"><span class="sign">MUŠ</span>&amp;<span class="sign">KAK</span>&amp;<span class="sign">MUŠ</span></span></span> <span class="w" id="Q000003.121.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.119">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="compound"><span class="sign">MUŠ</span>&amp;<span class="sign">KAK</span>&amp;<span class="sign">MUŠ</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.122" label="ED Lu A, 122" cid="">
+<td class="lnum">
+<a name="a.Q000003.122">
+<span class="xlabel">122</span>
+<span class="lnum"> NaN 122</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.122.1" title="zermušku[metal worker, copper smith]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x007563.html')"><span class="compound"><span class="sign">TAK<sub>4</sub></span>.<span class="sign">ALAN</span></span></a></span> <span class="w" id="Q000003.122.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.120">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">TAK<sub>4</sub></span>
+<span class="sign">ALAN</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.123" label="ED Lu A, 123" cid="">
+<td class="lnum">
+<a name="a.Q000003.123">
+<span class="xlabel">123</span>
+<span class="lnum"> NaN 123</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.123.1"><span class="sign">PA</span>:<span class="sign">URUDA</span></span> <span class="w" id="Q000003.123.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.121">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">PA</span>
+<span class="sign">URUDA</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.124" label="ED Lu A, 124" cid="">
+<td class="lnum">
+<a name="a.Q000003.124">
+<span class="xlabel">124</span>
+<span class="lnum"> NaN 124</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.124.1"><span class="sign">ḪAL</span>:<span class="compound"><span class="sign">GU<sub>2</sub></span>×<span class="sign">KAK</span></span></span> <span class="w" id="Q000003.124.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.122">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">ḪAL</span>
+<span class="compound"><span class="sign">GU<sub>2</sub></span>×<span class="sign">KAK</span></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.125" label="ED Lu A, 125" cid="">
+<td class="lnum">
+<a name="a.Q000003.125">
+<span class="xlabel">125</span>
+<span class="lnum"> NaN 125</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.125.1" title="bahar[potter]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x000679.html')"><span class="">baḫar<sub>2</sub></span></a></span> <span class="w" id="Q000003.125.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.123">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">BAḪAR<sub>2</sub></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.126" label="ED Lu A, 126" cid="">
+<td class="lnum">
+<a name="a.Q000003.126">
+<span class="xlabel">126</span>
+<span class="lnum"> NaN 126</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.126.1"><span class="sign">MES</span>:<span class="sign">KEŠ<sub>2</sub></span></span> <span class="w" id="Q000003.126.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.124">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">MES</span>
+<span class="sign">KEŠ<sub>2</sub></span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.127" label="ED Lu A, 127" cid="">
+<td class="lnum">
+<a name="a.Q000003.127">
+<span class="xlabel">127</span>
+<span class="lnum">127</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.127.1" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="sign">GAL</span></a></span> <span class="w" id="Q000003.127.2" title="e[house]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001300.html')"><span class="sign">E<sub>2</sub></span></a></span></td>
+</tr>
+<tr class="l" xml:id="Q000003.128" label="ED Lu A, 128" cid="Q000003.125">
+<td class="lnum">
+<a name="a.Q000003.128">
+<span class="xlabel">128</span>
+<span class="lnum">128</span>
+</a>
+</td>
+<td>
+<span class="w" id="Q000003.128.1" title="kid[a reed mat]N">
+<a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x003376.html')">
+<span class="">kid</span>
+</a>
+</span>
+</td>
+</tr>
+<tr class="l" xml:id="Q000003.129" label="ED Lu A, 129" cid="">
+<td class="lnum">
+<a name="a.Q000003.129">
+<span class="xlabel">129</span>
+<span class="lnum"> NaN 129</span>
+</a>
+</td>
+<td><span class="w" id="Q000003.129.1" title="kid[a reed mat]N"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x003376.html')"><span class="">kid</span></a></span> <span class="w" id="Q000003.129.2" title="gal[(to be) big, great]V/i"><a class="cbd" href="javascript:pop1cbd('/epsd/cbd/sux/sux.x001767.html')"><span class="">gal</span></a></span></td>
+</tr>
+<tr class="l" label="ED Lu A, " cid="Q000003.126">
+<td class="lnum"/>
+<td>
+<span class="sign">GAL</span>
+<span class="sign">KID</span>
+</td>
+</tr>
+</table>

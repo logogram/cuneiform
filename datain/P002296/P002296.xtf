@@ -1,0 +1,401 @@
+<transliteration xmlns="http://oracc.org/ns/xtf/1.0" xmlns:x="http://oracc.org/ns/xtf/1.0" xmlns:g="http://oracc.org/ns/gdl/1.0" xmlns:n="http://oracc.org/ns/norm/1.0" xmlns:syn="http://oracc.org/ns/syntax/1.0" xmlns:xh="http://www.w3.org/1999/xhtml" xml:id="P002296" n="ATU 6, pl. 64, W 15772,p" xml:lang="qpc" hand="0" project="greta" cols="1">
+    <protocols scope="text">
+        <protocol type="version">0.1</protocol>
+        <protocol type="atf">lang qpc</protocol>
+        <protocol type="atf">use alignment-groups</protocol>
+        <protocol type="atf">use mylines</protocol>
+    </protocols>
+    <object type="tablet" implicit="1">
+        <surface type="obverse" label="o" xml:id="P002296.o.1">
+            <column n="1" label="o i" xml:id="P002296.o.i.2">
+                <l xml:id="P002296.3" n="1" label="o i 1">
+                    <f type="wp">
+                        <g:w xml:id="P002296.3.1" xml:lang="qpc" form="x">
+                            <g:x g:type="ellipsis" xml:id="P002296.3.1.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.3.1.0">...</g:x>
+                        </g:w>
+                    </f>
+                    <f type="wp">
+                        <g:w xml:id="P002296.3.2" xml:lang="qpc" form="x">
+                            <g:x g:type="ellipsis" xml:id="P002296.3.2.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.3.2.0">...</g:x>
+                        </g:w>
+                    </f>
+                </l>
+                <l xml:id="P002296.4" n="2" label="o i 2">
+                    <f type="wp">
+                        <g:w xml:id="P002296.4.1" xml:lang="qpc" form="x">
+                            <g:x g:type="ellipsis" xml:id="P002296.4.1.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.4.1.0">...</g:x>
+                        </g:w>
+                    </f>
+                    <f type="wp">
+                        <g:w xml:id="P002296.4.2" xml:lang="qpc" form="x" g:delim=" ">
+                            <g:x g:type="ellipsis" xml:id="P002296.4.2.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.4.2.0">...</g:x>
+                        </g:w>
+                        <g:w xml:id="P002296.4.3" xml:lang="qpc" form="X">
+                            <g:s xml:id="P002296.4.3.0" g:status="ok">X</g:s>
+                        </g:w>
+                    </f>
+                </l>
+                <l xml:id="P002296.5" n="3" label="o i 3">
+                    <f type="wp">
+                        <g:w xml:id="P002296.5.1" xml:lang="qpc" form="x">
+                            <g:x g:type="ellipsis" xml:id="P002296.5.1.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.5.1.0">...</g:x>
+                        </g:w>
+                    </f>
+                    <f type="wp">
+                        <g:w xml:id="P002296.5.2" xml:lang="qpc" form="x" g:delim=" ">
+                            <g:x g:type="ellipsis" xml:id="P002296.5.2.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.5.2.0">...</g:x>
+                        </g:w>
+                        <g:w xml:id="P002296.5.3" xml:lang="qpc" form="X">
+                            <g:s xml:id="P002296.5.3.0" g:status="ok">X</g:s>
+                        </g:w>
+                    </f>
+                </l>
+            </column>
+            <column n="2" label="o ii" xml:id="P002296.o.ii.6">
+                <l xml:id="P002296.7" n="1.a" label="o ii 1.a">
+                    <f type="wp">
+                        <g:w xml:id="P002296.7.1" xml:lang="qpc" form="UKKIN">
+                            <g:s form="UKKIN~a" xml:id="P002296.7.1.0" g:status="ok">
+                                <g:b>UKKIN</g:b>
+                                <g:a>a</g:a>
+                            </g:s>
+                        </g:w>
+                    </f>
+                </l>
+                <l xml:id="P002296.8" n="2.a" label="o ii 2.a">
+                    <f type="wp">
+                        <g:w xml:id="P002296.8.1" xml:lang="qpc" form="1(N01)">
+                            <g:n form="1(N01)" xml:id="P002296.8.1.0" g:status="ok">
+                                <g:r>1</g:r>
+                                <g:s>N01</g:s>
+                            </g:n>
+                        </g:w>
+                    </f>
+                    <f type="wp">
+                        <g:w xml:id="P002296.8.2" xml:lang="qpc" form="AL">
+                            <g:s xml:id="P002296.8.2.0" g:status="ok">AL</g:s>
+                        </g:w>
+                    </f>
+                </l>
+                <l xml:id="P002296.9" n="2.b" label="o ii 2.b">
+                    <f type="wp">
+                        <ag ref="a" form="PAP_X_x">
+                            <g:w xml:id="P002296.9.1" xml:lang="qpc" form="PAP" g:delim=" ">
+                                <g:s form="PAP~a" xml:id="P002296.9.1.0" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">
+                                    <g:b>PAP</g:b>
+                                    <g:a>a</g:a>
+                                </g:s>
+                            </g:w>
+                            <g:w xml:id="P002296.9.2" xml:lang="qpc" form="X" g:delim=" ">
+                                <g:s xml:id="P002296.9.2.0" g:status="ok">X</g:s>
+                            </g:w>
+                            <g:w xml:id="P002296.9.3" xml:lang="qpc" form="x">
+                                <g:x g:type="ellipsis" xml:id="P002296.9.3.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.9.3.0">...</g:x>
+                            </g:w>
+                        </ag>
+                    </f>
+                </l>
+                <l xml:id="P002296.10" n="3.a" label="o ii 3.a">
+                    <f type="wp">
+                        <g:w xml:id="P002296.10.1" xml:lang="qpc" form="2(N01)">
+                            <g:n form="2(N01)" xml:id="P002296.10.1.0" g:status="ok">
+                                <g:r>2</g:r>
+                                <g:s>N01</g:s>
+                            </g:n>
+                        </g:w>
+                    </f>
+                    <f type="wp">
+                        <g:w xml:id="P002296.10.2" xml:lang="qpc" form="EN" g:delim=" ">
+                            <g:s form="EN~a" xml:id="P002296.10.2.0" g:status="ok">
+                                <g:b>EN</g:b>
+                                <g:a>a</g:a>
+                            </g:s>
+                        </g:w>
+                        <g:w xml:id="P002296.10.3" xml:lang="qpc" form="TUR">
+                            <g:s xml:id="P002296.10.3.0" g:status="ok">TUR</g:s>
+                        </g:w>
+                    </f>
+                </l>
+                <l xml:id="P002296.11" n="3.b" label="o ii 3.b">
+                    <f type="wp">
+                        <ag ref="a" form="NESAG₂_BA">
+                            <g:w xml:id="P002296.11.1" xml:lang="qpc" form="NESAG₂" g:delim=" ">
+                                <g:s g:accented="NÉSAG" form="NESAG₂~b" xml:id="P002296.11.1.0" g:status="ok">
+                                    <g:b>NESAG₂</g:b>
+                                    <g:a>b</g:a>
+                                </g:s>
+                            </g:w>
+                            <g:w xml:id="P002296.11.2" xml:lang="qpc" form="BA">
+                                <g:s xml:id="P002296.11.2.0" g:status="ok">BA</g:s>
+                            </g:w>
+                        </ag>
+                    </f>
+                </l>
+                <l xml:id="P002296.12" n="3.c" label="o ii 3.c">
+                    <f type="wp">
+                        <ag ref="a" form="A_NUNUZ">
+                            <g:w xml:id="P002296.12.1" xml:lang="qpc" form="A" g:delim=" ">
+                                <g:s xml:id="P002296.12.1.0" g:status="ok">A</g:s>
+                            </g:w>
+                            <g:w xml:id="P002296.12.2" xml:lang="qpc" form="NUNUZ">
+                                <g:s form="NUNUZ~a1" xml:id="P002296.12.2.0" g:status="ok">
+                                    <g:b>NUNUZ</g:b>
+                                    <g:a>a1</g:a>
+                                </g:s>
+                            </g:w>
+                        </ag>
+                    </f>
+                </l>
+                <l xml:id="P002296.13" n="4.a" label="o ii 4.a">
+                    <f type="wp">
+                        <g:w xml:id="P002296.13.1" xml:lang="qpc" form="x">
+                            <g:x g:type="ellipsis" xml:id="P002296.13.1.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.13.1.0">...</g:x>
+                        </g:w>
+                    </f>
+                    <f type="wp">
+                        <g:w xml:id="P002296.13.2" xml:lang="qpc" form="x" g:delim=" ">
+                            <g:x g:type="ellipsis" xml:id="P002296.13.2.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.13.2.0">...</g:x>
+                        </g:w>
+                        <g:w xml:id="P002296.13.3" xml:lang="qpc" form="TUR">
+                            <g:s xml:id="P002296.13.3.0" g:status="ok">TUR</g:s>
+                        </g:w>
+                    </f>
+                </l>
+                <l xml:id="P002296.14" n="4.b" label="o ii 4.b">
+                    <f type="wp">
+                        <ag ref="a" form="EN_UNUG_HI">
+                            <g:w xml:id="P002296.14.1" xml:lang="qpc" form="EN" g:delim=" ">
+                                <g:s form="EN~a" xml:id="P002296.14.1.0" g:status="ok">
+                                    <g:b>EN</g:b>
+                                    <g:a>a</g:a>
+                                </g:s>
+                            </g:w>
+                            <g:w xml:id="P002296.14.2" xml:lang="qpc" form="UNUG" g:delim=" ">
+                                <g:s form="UNUG~a" xml:id="P002296.14.2.0" g:status="ok">
+                                    <g:b>UNUG</g:b>
+                                    <g:a>a</g:a>
+                                </g:s>
+                            </g:w>
+                            <g:w xml:id="P002296.14.3" xml:lang="qpc" form="HI">
+                                <g:s xml:id="P002296.14.3.0" g:status="ok">HI</g:s>
+                            </g:w>
+                        </ag>
+                    </f>
+                </l>
+                <l xml:id="P002296.15" n="5.a" label="o ii 5.a">
+                    <f type="wp">
+                        <g:w xml:id="P002296.15.1" xml:lang="qpc" form="x">
+                            <g:x g:type="ellipsis" xml:id="P002296.15.1.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.15.1.0">...</g:x>
+                        </g:w>
+                    </f>
+                    <f type="wp">
+                        <g:w xml:id="P002296.15.2" xml:lang="qpc" form="x">
+                            <g:x g:type="ellipsis" xml:id="P002296.15.2.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.15.2.0">...</g:x>
+                        </g:w>
+                    </f>
+                </l>
+                <l xml:id="P002296.16" n="5.b" label="o ii 5.b">
+                    <f type="wp">
+                        <g:w xml:id="P002296.16.1" xml:lang="qpc" form="x">
+                            <g:x g:type="ellipsis" xml:id="P002296.16.1.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.16.1.0">...</g:x>
+                        </g:w>
+                    </f>
+                </l>
+            </column>
+            <column n="3" label="o iii" xml:id="P002296.o.iii.17">
+                <l xml:id="P002296.18" n="1" label="o iii 1">
+                    <f type="wp">
+                        <g:w xml:id="P002296.18.1" xml:lang="qpc" form="1(N01)">
+                            <g:n form="1(N01)" xml:id="P002296.18.1.0" g:status="ok">
+                                <g:r>1</g:r>
+                                <g:s>N01</g:s>
+                            </g:n>
+                        </g:w>
+                    </f>
+                    <f type="wp">
+                        <g:w xml:id="P002296.18.2" xml:lang="qpc" form="|U₄×1(N57)|" g:delim=" ">
+                            <g:c form="|U₄×1(N57)|" xml:id="P002296.18.2.0" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">
+                                <g:s>U₄</g:s>
+                                <g:o g:type="containing"/>
+                                <g:n form="1(N57)">
+                                    <g:r>1</g:r>
+                                    <g:s>N57</g:s>
+                                </g:n>
+                            </g:c>
+                        </g:w>
+                        <g:w xml:id="P002296.18.3" xml:lang="qpc" form="X" g:delim=" ">
+                            <g:s xml:id="P002296.18.3.0" g:status="ok">X</g:s>
+                        </g:w>
+                        <g:w xml:id="P002296.18.4" xml:lang="qpc" form="x">
+                            <g:x g:type="ellipsis" xml:id="P002296.18.4.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.18.4.0">...</g:x>
+                        </g:w>
+                    </f>
+                </l>
+                <l xml:id="P002296.19" n="2" label="o iii 2">
+                    <f type="wp">
+                        <g:w xml:id="P002296.19.1" xml:lang="qpc" form="1(N01)" g:delim=" ">
+                            <g:n form="1(N01)" xml:id="P002296.19.1.0" g:break="damaged" g:ho="1" g:status="ok" g:hc="1">
+                                <g:r>1</g:r>
+                                <g:s>N01</g:s>
+                            </g:n>
+                        </g:w>
+                        <g:w xml:id="P002296.19.2" xml:lang="qpc" form="x">
+                            <g:x g:type="ellipsis" xml:id="P002296.19.2.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.19.2.0">...</g:x>
+                        </g:w>
+                    </f>
+                    <f type="wp">
+                        <g:w xml:id="P002296.19.3" xml:lang="qpc" form="x">
+                            <g:x g:type="ellipsis" xml:id="P002296.19.3.0" g:breakStart="1" g:status="ok" g:break="missing" g:o="[" g:c="]" g:breakEnd="P002296.19.3.0">...</g:x>
+                        </g:w>
+                    </f>
+                </l>
+            </column>
+        </surface>
+    </object>
+    <xcl xmlns="http://oracc.org/ns/xcl/1.0" xmlns:xff="http://oracc.org/ns/xff/1.0" project="greta" textid="P002296">
+        <c type="text" xml:id="P002296.U0">
+            <mds xml:id="P002296.m0">
+                <m k="subgenre">
+                </m>
+                <m k="genre">Administrative</m>
+                <m k="period">Uruk III</m>
+                <m k="provenience">Uruk</m>
+            </mds>
+            <d type="surface" ref="P002296.o.1"/>
+            <d type="column" ref="P002296.o.i.2"/>
+            <c type="discourse" subtype="body" xml:id="P002296.U1">
+            <d type="line-start" ref="P002296.3"/>
+            <c type="sentence" xml:id="P002296.U2" label="o i 1 - o iii 2">
+            <l xml:id="P002296.l005af" ref="P002296.3.1">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+            <l xml:id="P002296.l005b0" ref="P002296.3.2">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+            <d type="line-start" ref="P002296.4"/>
+            <l xml:id="P002296.l005b1" ref="P002296.4.1">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+            <l xml:id="P002296.l005b2" ref="P002296.4.2">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+            <l xml:id="P002296.l005b3" ref="P002296.4.3">
+                <xff:f xml:lang="qpc" form="X"/>
+            </l>
+            <d type="line-start" ref="P002296.5"/>
+            <l xml:id="P002296.l005b4" ref="P002296.5.1">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+            <l xml:id="P002296.l005b5" ref="P002296.5.2">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+            <l xml:id="P002296.l005b6" ref="P002296.5.3">
+                <xff:f xml:lang="qpc" form="X"/>
+            </l>
+            <d type="column" ref="P002296.o.ii.6"/>
+            <d type="line-start" ref="P002296.7"/>
+            <l xml:id="P002296.l005b7" ref="P002296.7.1">
+                <xff:f xml:lang="qpc" form="UKKIN"/>
+            </l>
+            <d type="line-start" ref="P002296.8"/>
+            <l xml:id="P002296.l005b8" ref="P002296.8.1">
+                <xff:f xml:lang="qpc" form="1(N01)"/>
+            </l>
+            <l xml:id="P002296.l005b9" ref="P002296.8.2">
+                <xff:f xml:lang="qpc" form="AL"/>
+            </l>
+            <d type="line-start" ref="P002296.9"/>
+            <l xml:id="P002296.l005ba" ref="P002296.9.1">
+                <xff:f xml:lang="qpc" form="PAP"/>
+            </l>
+            <l xml:id="P002296.l005bb" ref="P002296.9.2">
+                <xff:f xml:lang="qpc" form="X"/>
+            </l>
+            <l xml:id="P002296.l005bc" ref="P002296.9.3">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+            <d type="line-start" ref="P002296.10"/>
+            <l xml:id="P002296.l005bd" ref="P002296.10.1">
+                <xff:f xml:lang="qpc" form="2(N01)"/>
+            </l>
+            <l xml:id="P002296.l005be" ref="P002296.10.2">
+                <xff:f xml:lang="qpc" form="EN"/>
+            </l>
+            <l xml:id="P002296.l005bf" ref="P002296.10.3">
+                <xff:f xml:lang="qpc" form="TUR"/>
+            </l>
+            <d type="line-start" ref="P002296.11"/>
+            <l xml:id="P002296.l005c0" ref="P002296.11.1">
+                <xff:f xml:lang="qpc" form="NESAG₂"/>
+            </l>
+            <l xml:id="P002296.l005c1" ref="P002296.11.2">
+                <xff:f xml:lang="qpc" form="BA"/>
+            </l>
+            <d type="line-start" ref="P002296.12"/>
+            <l xml:id="P002296.l005c2" ref="P002296.12.1">
+                <xff:f xml:lang="qpc" form="A"/>
+            </l>
+            <l xml:id="P002296.l005c3" ref="P002296.12.2">
+                <xff:f xml:lang="qpc" form="NUNUZ"/>
+            </l>
+            <d type="line-start" ref="P002296.13"/>
+            <l xml:id="P002296.l005c4" ref="P002296.13.1">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+            <l xml:id="P002296.l005c5" ref="P002296.13.2">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+            <l xml:id="P002296.l005c6" ref="P002296.13.3">
+                <xff:f xml:lang="qpc" form="TUR"/>
+            </l>
+            <d type="line-start" ref="P002296.14"/>
+            <l xml:id="P002296.l005c7" ref="P002296.14.1">
+                <xff:f xml:lang="qpc" form="EN"/>
+            </l>
+            <l xml:id="P002296.l005c8" ref="P002296.14.2">
+                <xff:f xml:lang="qpc" form="UNUG"/>
+            </l>
+            <l xml:id="P002296.l005c9" ref="P002296.14.3">
+                <xff:f xml:lang="qpc" form="HI"/>
+            </l>
+            <d type="line-start" ref="P002296.15"/>
+            <l xml:id="P002296.l005ca" ref="P002296.15.1">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+            <l xml:id="P002296.l005cb" ref="P002296.15.2">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+            <d type="line-start" ref="P002296.16"/>
+            <l xml:id="P002296.l005cc" ref="P002296.16.1">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+            <d type="column" ref="P002296.o.iii.17"/>
+            <d type="line-start" ref="P002296.18"/>
+            <l xml:id="P002296.l005cd" ref="P002296.18.1">
+                <xff:f xml:lang="qpc" form="1(N01)"/>
+            </l>
+            <l xml:id="P002296.l005ce" ref="P002296.18.2">
+                <xff:f xml:lang="qpc" form="|U₄×1(N57)|"/>
+            </l>
+            <l xml:id="P002296.l005cf" ref="P002296.18.3">
+                <xff:f xml:lang="qpc" form="X"/>
+            </l>
+            <l xml:id="P002296.l005d0" ref="P002296.18.4">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+            <d type="line-start" ref="P002296.19"/>
+            <l xml:id="P002296.l005d1" ref="P002296.19.1">
+                <xff:f xml:lang="qpc" form="1(N01)"/>
+            </l>
+            <l xml:id="P002296.l005d2" ref="P002296.19.2">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+            <l xml:id="P002296.l005d3" ref="P002296.19.3">
+                <xff:f xml:lang="qpc" form="x"/>
+            </l>
+        </c>
+    </c>
+</c>
+</xcl>
+</transliteration>
+
