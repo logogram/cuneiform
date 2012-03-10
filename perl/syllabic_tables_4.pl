@@ -35,9 +35,9 @@ print   header({-charset => 'utf-8'}),
                        -script => [ {-language=>'javascript',
                                    -src=>"http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"},
 				    {-language=>'javascript',
-                                   -src=>"js/highcharts.js"},
+                                   -src=>"../www/js/highcharts.js"},
 				    {-language=>'javascript',
-                                   -src=>"js/genericchart.js"}
+                                   -src=>"../www/js/genericchart.js"}
 				    ]
                        ),
                 
@@ -211,8 +211,7 @@ foreach my $d (sort keys %totals){
     if (grep {$_ eq $d} @tableheaders) {
 	my $sum = $totals{$d}{"total"};
 	if ($d eq "CV") { $sum = $sum + $VVtotal; }
-	$pietotals .= " ['".$d."',   ".$sum."],";
-	print p($d.": ".$sum);
+	$pietotals .= " ['".$d." (".$sum.")"."',   ".$sum."],";
     }
     elsif (($d ne "VV") && ($d ne "C")) {
 	# VVs are counted together with CVs while Cs are determinatives and do not belong here.
@@ -220,8 +219,7 @@ foreach my $d (sort keys %totals){
 	}    
 }
 if ($others > 0) {
-    $pietotals .= " ['Others',   ".$others."],";
-    print p("Others: ".$others);
+    $pietotals .= " ['Others (".$others.")',   ".$others."],";
 }
 
 $pietotals = substr($pietotals,0,length($pietotals)-1);
@@ -244,8 +242,7 @@ foreach my $d (sort keys %totals){
     if (grep {$_ eq $d} @tableheaders) {
 	my $sum = $totals{$d}{"diff_values"};
 	if ($d eq "CV") { $sum = $sum + $VVdiff; }
-	$piediffvalues .= " ['".$d."',   ".$sum."],";
-	print p($d.": ".$sum);
+	$piediffvalues .= " ['".$d." (".$sum.")"."',   ".$sum."],";
     }
     elsif (($d ne "VV") && ($d ne "C")) {
 	# VVs are counted together with CVs while Cs are determinatives and do not belong here.
@@ -253,8 +250,7 @@ foreach my $d (sort keys %totals){
 	}    
 }
 if ($othercat > 0) {
-    $piediffvalues .= " ['Others',   ".$othercat."],";
-    print p("Others: ".$othercat);
+    $piediffvalues .= " ['Others (".$others.")',   ".$othercat."],";
 }
 
 $piediffvalues = substr($piediffvalues,0,length($piediffvalues)-1);
